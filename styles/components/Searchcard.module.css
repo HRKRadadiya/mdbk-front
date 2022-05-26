@@ -1,0 +1,283 @@
+.div1 {
+  background: #ffffff;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  width: 100%;
+  margin-top: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.card1Text {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: #35323c;
+  padding-left: 35px;
+}
+
+.card1Text2 {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: #35323c;
+  margin-left: 10px;
+  word-wrap: break-word;
+  max-width: 100%;
+}
+
+/* .lastSeen {
+  font-family: 'SpoqaHanSans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: start;
+  color: #9a9a9a;
+  padding-left: 35px;
+} */
+
+.cardBtn {
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  box-sizing: border-box;
+  border-radius: 30px;
+  height: 46px;
+  width: 140px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.cardBtn2 {
+  border: 1px solid #00d6e3;
+  box-sizing: border-box;
+  border-radius: 30px;
+  height: 46px;
+  width: 140px;
+  background-color: #00d6e3;
+  color: white;
+}
+
+.paraTwo {
+  font-family: 'SpoqaHanSans';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 36px;
+  color: #35323c;
+}
+
+.buttonTextSec {
+  font-family: 'SpoqaHanSans';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #9a9a9a;
+  text-align: center;
+  height: 44px;
+  border: 1px solid #d1d1d1;
+  width: auto;
+  box-sizing: border-box;
+  border-radius: 100px;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+
+.topMenu {
+  font-family: 'SpoqaHanSans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #9a9a9a;
+}
+
+.acceptedButton {
+  background: rgba(0, 214, 227, 0.1);
+  border-radius: 30px;
+  border: 0;
+  color: #00d6e3;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+}
+
+.call {
+  color: #00d6e3;
+  font-size: 18px;
+  margin-right: 10px;
+}
+.callIcon {
+  transform: scaleX(-1);
+}
+
+.acceptButton {
+  border-radius: 30px;
+  border: 0;
+  border: 1px solid #00d6e3;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.rejectButton {
+  border-radius: 30px;
+  border: 0;
+  background: #f4f4f4;
+  color: #9a9a9a;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.detailButton {
+  border-radius: 30px;
+  border: 0;
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+}
+.detailButtonsec {
+  border-radius: 30px;
+  border: 0;
+  border: 1px solid #00d6e3;
+  color: white;
+  background-color: #00d6e3;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+}
+.requestButton {
+  border-radius: 30px;
+  border: 0;
+  background: #eaeaea;
+  border: 1px solid #eaeaea;
+  color: #ffffff;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: 'SpoqaHanSans';
+  margin-right: 10px;
+}
+
+.butttonLabel {
+  font-weight: bold;
+}
+.waitingButton {
+  border-radius: 30px;
+  border: 0;
+  border: 1px solid #9A9A9A;
+  width: 120px;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+
+.seeMoreBtn {
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  box-sizing: border-box;
+  border-radius: 30px;
+  height: 46px;
+  width: 140px;
+  margin-right: 0px;
+  font-weight: bold;
+  float: right;
+  margin-top: 6px;
+}
+
+
+.avatarProject {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 100px;
+}
+
+.avatarProject:not(:first-child) {
+  margin-left: -60px;
+  -webkit-mask:radial-gradient(circle 55px at 5px 50%,transparent 99%,#fff 100%);
+          mask:radial-gradient(circle 55px at 5px 50%,transparent 99%,#fff 100%);
+}
+
+.avatarProject image {
+  width: 100%;
+  display: block;
+}
+
+.projectamt {
+  font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #00D6E3;
+}
+
+.suggestedamt {
+  font-family: 'SpoqaHanSans';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+color: #16181C;
+}
+
+.bcoinAmt{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+color: #16181C;
+}
+
+.bcoinCoin{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 36px;
+color: #00D6E3;
+}
+.bcoinTxt{
+  font-family: 'SpoqaHanSans';
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 36px;
+color: #16181C;
+padding-left: 5px;
+}
+
+.roundedArrow{
+    border: 1px solid #00d6e3;
+    background-color: #00d6e3;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 50%;
+    height: 54px;
+    width: 54px;
+    margin:0;
+    font-weight: bold;
+    float: right;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+

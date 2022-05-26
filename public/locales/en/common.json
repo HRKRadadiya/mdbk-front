@@ -1,0 +1,1214 @@
+{
+	"common": {
+		"Confirm": "Confirm",
+		"notifications": "Notifications",
+		"select": "Select",
+		"admin": "Admin",
+		"no_authority": "No Authority",
+		"searchresult": "Search Result",
+		"entirelist": "Entire List",
+		"number": "Number",
+		"id": "ID",
+		"name": "Name",
+		"close": "Close",
+		"password": "Password",
+		"hourly": "Hourly Wage",
+		"daily": "Daily Wage",
+		"monthly": "Monthly Wage",
+		"email_address": "Email Address",
+		"GotoForum": "Go to Forum",
+		"TBD": "TBD",
+		"People": "People",
+		"Register": "Register",
+		"Present": "Present",
+		"Makeprofile": "Make a profile",
+		"Postproject": "Post a project",
+		"MinimumCharecter": "Minimum 11 Charecter",
+		"MaxCharecter": "Maximum 11 Charecter",
+		"Findproject": "Find a project",
+		"Post": "Post",
+		"email": "Email",
+		"phone_number": "Phone Number",
+		"won1": " won",
+		"phone": "Phone",
+		"won": " won",
+		"editinfo": "Edit Information",
+		"Company": "Company",
+		"edit": "Edit",
+		"n_a": "N/A",
+		"Development": "Development",
+		"Delete": "Delete",
+		"Design": "Design",
+		"ImportMessages": "Import Saved Messages",
+		"Marketing": "Marketing",
+		"Other": "Other",
+		"profile": "Profile",
+		"side_character_profile_completion_rate": "Side Character Profile Completion Rate",
+		"client_profile_completion_rate": "Client Profile Completion Rate",
+		"Requestinterview": "Request an interview",
+		"Requestcontactinformation": "Request contact information",
+		"SaveMessage": "Save Message",
+		"RequestwithR1": "Send 2 requests for free every day",
+		"RequestwithR2": "Send 1 request (2 in total) for free every day",
+		"Requestwithcoins": "Request with 1000 coins",
+		"date_of_register": "Date of Registration",
+		"keyword": "Keyword",
+		"enterkey": "Enter keyword",
+		"search": "Search",
+		"download_excel_file": "Download Excel File",
+		"yes": "Yes",
+		"no": "No",
+		"cancel": "Cancel",
+		"inbox": "Inbox",
+		"Sent": "Sent",
+		"save": "Save",
+		"popupclose": "PopUp Close By User",
+		"title1": "Congratulations! You have completed over",
+		"title2": "80% of your profile!",
+		"desc": "You have been rewarded bonus coins because your profile is 80% complete! Now you should participate in attractive projects! :)",
+		"InvalidUrl": "Invalid Url",
+		"searchClient": "Search",
+		"searchSideChar": "Search",
+		"none":"None",
+		"project": {
+			"Noprojects": "No projects to display. ",
+			"Pleaseproposal": "Please post a project proposal."
+		},
+		"popup": {
+			"delete": {
+				"title": "Delete?",
+				"decription": "Do you want to delete selected items?"
+			},
+			"excel_download": {
+				"title": "Download Excel",
+				"decription": "Are You sure you want to download excel?"
+			}
+		},
+		"enter_name": "Enter name",
+		"enter_email": "Enter email",
+		"enter_password": "Enter Password",
+		"enter_confiem_password": "Enter confirm password",
+		"password_confirmation": "Password Confirmation",
+		"experience": "Experience",
+		"request": {
+			"SentRequests": "Sent Requests",
+			"ReceivedRequest": "Received Request"
+		},
+		"bcoin": {
+			"coins": "coins",
+			"BCoinsPurchased": "B-Coins You Purchased",
+			"Payment": "Payment",
+			"yearsstarting": "2 years starting ",
+			"paytime": "Pay won",
+			"won": "won"
+		}
+	},
+	"notification": {
+		"received_interview_request": "Someone requested an interview.",
+		"user_applied_for_project": "Someone applied for your project.",
+		"user_answered_on_your_forum_question": "Someone answered your question on the forum.",
+		"contact_information_request_accepted": "Your contact information request has been accepted.",
+		"contact_information_request_rejected": "Your contact information request has been rejected.",
+		"received_contact_information_request": "Someone requested your contact information.",
+		"your_project_application_accepted": "Your project application has been accepted.",
+		"user_commented_on_your_forum_answered": "Someone commented on your response on the forum.",
+		"interview_request_accepted": "Your interview request has been accepted.",
+		"interview_request_rejected": "Your interview request has been rejected.",
+		"nonotify": "No Notifications"
+	},
+	"mdbkforum": {
+		"Forum": "Forum",
+		"Response": "Response",
+		"Question": "Question",
+		"Whatask": "What do you want to ask?",
+		"PostQuestion": "Post Question",
+		"Comments": "Comments",
+		"Askedby": "Asked by",
+		"Answer": "Answer",
+		"PostResponse": "Post Response",
+		"waitinganswered": "Waiting to be Answered",
+		"answered": "Answered",
+		"Post": "Post",
+		"EnterComment": "Enter Comment",
+		"Seemore": "See more",
+		"Showless": "Show less",
+		"PostComment": "Post Comment",
+		"Pleasepostquestion": "Please post a question after making your Client profile!",
+		"Pleasepostresponse": "Please post a response after making your Side Character profile!",
+		"Pleasepostcomment": "Please post a comment after making your Side Character profile!",
+		"Doyoureallywanttodeletetheresponse": "Do you really want to delete the response?",
+		"Doyoureallywanttodeletethecomment": "Do you really want to delete the comment?",
+		"Responseedited": "Response has been edited.",
+		"Commentedited": "Comment has been edited.",
+		"ForumResponseCompleted": "Forum Response Post Completed.",
+		"Yourresponseforum": "Your response has been posted to the forum.",
+		"ForumcommentCompleted": "Forum comment Completed.",
+		"Yourcommentforum": "Your comment has been posted to the forum.",
+		"Nofilechosen": "No file chosen",
+		"Enterresponse": "Enter a response.",
+		"Listanswers": "List of answers for"
+	},
+	"makeProfilePopUp": {
+		"contactinfo": "You can send a request after creating your Client profile.",
+		"interview": "You can send a request after creating your Side Character profile.",
+		"applying": "You can apply to the project after creating your Side Character profile.",
+		"postingproject": "You can post a project after creating your Client profile.",
+		"postingquestion": "Please post a question after making your Client profile!",
+		"postingresponse": "Please post a response after making your Side Character profile!",
+		"postingcomment": "Please post a comment after making your Side Character profile!"
+	},
+	"applySideCharecter": {
+		"Applyforprojects": "Apply for projects",
+		"HourlyWage": "Hourly Wage",
+		"ImportSavedMessages": "Import Saved Messages",
+		"ImportSavedMessages1": "Import Saved Messages",
+		"Requestcontactinfo": "Request contact information with a friendly message :)",
+		"Addamessage": "Add a message",
+		"Notice": "Notice",
+		"Youcansend": "You can send 2 free requests per day.",
+		"After2requests": "After 2 requests, each request will be charged.",
+		"Eachinterview": "Each interview request will cost 500 coins."
+	},
+	"workExperienceDate": {
+		"newMonth": "Month",
+		"newMonths": "Month",
+		"newYear": "Year",
+		"newYears": "Years"
+	},
+	"memberTime": {
+		"yearago": " year ago",
+		"monthago": " month ago",
+		"dayago": " day ago",
+		"hoursago": " hours ago",
+		"minutesago": " minutes ago",
+		"secondsago": " just now"
+	},
+	"bonus_popup": {},
+	"requestpopup": {
+		"RequestComplete": "Request Complete",
+		"Youhavesuccessfullyrequested": "You have successfully requested contact information.",
+		"Younowhave": "You now have ",
+		"ten": "10,000",
+		"Younowhaverequest": "You now have ",
+		"Bcoinsleft": " B-coins left.",
+		"one": "1",
+		"copuen": " coupon left.",
+		"request1": "1 free request",
+		"request2": "0 free request",
+		"freerequestcoupo": "free request coupon left.",
+		"YounowhaveBcoins": "You now have %coin% B-coins left.",
+		"Confirm": "Confirm",
+		"NotEnough": "Not Enough B-Coins",
+		"Youdonothaveenough": "You do not have enough B-coins!",
+		"Pleaseagain": "Please try again after purchasing B-coins! :)",
+		"Pleasetryagainpurchasing": "Please try again after purchasing B-coins! :)",
+		"PurchaseBCoins": "Purchase B-Coins",
+		"Youhavesuccessfullyinterview": "You have successfully requested an interview."
+	},
+	"featureSearch": {
+		"Registeryourprofile": "Register your profile",
+		"workExp": "of work experience",
+		"80ormorecomplete": "80% or more complete",
+		"80more": "80% or more",
+		"when_you_complete": "when you complete",
+		"ApplyforProject": "Apply for Project",
+		"Apply": "Apply",
+		"Delete": "Delete",
+		"cancel": "Cancel",
+		"BonusCash": "Bonus Cash",
+		"Payments!": "Payments!",
+		"Findsidecharacters": "Find side characters",
+		"Postasidecharacter": "Post a side character",
+		"SeeDetails": "See Details",
+		"Seemore": "See more",
+		"Findclients": "Find clients",
+		"Postasaclient": "Post as a client",
+		"Individual": "Individual",
+		"Company": "Company",
+		"FindProjects": "Find Projects",
+		"Postaproject": "Post a project",
+		"All": "All",
+		"Development": "Development",
+		"Design": "Design",
+		"Marketing": "Marketing",
+		"Other": "Other",
+		"WorkExperience": "Work Experience",
+		"PlanningStage": "Planning Stage",
+		"Budget": "Budget",
+		"Schedule": "Schedule",
+		"Profession": "Profession",
+		"Field": "Field",
+		"Location": "Location",
+		"DesiredDate": "Desired Date",
+		"DesiredTime": "Desired Time",
+		"DesiredType": "Desired Type",
+		"Insurance": "Insurance",
+		"WorkType": "Work Type",
+		"Project": "Project",
+		"SearchSideCharacters": "Search Side Characters",
+		"Search": "Search",
+		"ReceivedRequests": "Received Requests",
+		"SentRequests": "Sent Requests",
+		"MyLikes": "My Likes",
+		"Likes": "Likes",
+		"SearchOptionSettings": "Search Option Settings",
+		"RequestContactInformation": "Contact Request",
+		"RequestContactInformatio": "Request Contact Information",
+		"RequestContactInformation1": "Request Contact Information",
+		"RequestContactInformation2": "Request Contact Information",
+		"Whatisyourdesiredprofession?": "What is your desired profession?",
+		"MutipleSelectionAvailable": "Mutiple Selection Available",
+		"Whatisyourdesiredfield?": "What is your desired field?",
+		"Selectupto3": "Select up to 3",
+		"Whereisyourdesiredlocation?": "Where is your desired location?",
+		"Enterfield": "Enter field",
+		"SelectCity": "Select City",
+		"SelectDistrict": "Select District",
+		"Whenisyourdesireddate?": "When is your desired date?",
+		"Whenisyourdesiredtime?": "When is your desired time?",
+		"Whatisyourdesiredprojecttype?": "What is your desired project type?",
+		"Canyouprovideinsurance?": "Can you provide insurance?",
+		"Whatisyourdesiredworktype?": "What is your desired work type?",
+		"Cancel": "Cancel",
+		"SaveSearchOptions": "Save Search Options",
+		"Accepted": "Accepted",
+		"Rejected": "Rejected",
+		"Waiting": "Waiting",
+		"SearchClients": "Search Clients",
+		"RequestInterview": "Request Interview",
+		"Whoisyourdesiredclient?": "Who is your desired client?",
+		"Pending": "Pending",
+		"Refresh": "Refresh",
+		"Request_Interview": "Request Interview",
+		"Requested": "Requested"
+	},
+	"paymentDone": {
+		"PaymentComplete": "Payment Complete",
+		"Paymenthascompleted": "Payment has been completed!",
+		"paymentdetails": "Check payment details.",
+		"Confirm": "Confirm"
+	},
+	"popUps": {
+		"profile_register": {
+			"title": "Profile Registration Complete",
+			"description": "You have completed registering your profile. Complete over 80% and receive bonus B-coins!"
+		},
+		"profile_uncomplete": {
+			"title": "Please make a profile",
+			"description": "Please post a question after making your profile that will be displayed on the forum!",
+			"description_for_post_project": "Please post a project after making your profile that will be displayed on the project!",
+			"description_for_project_apply": "Please apply for project after making your profile that will be displayed on the project!",
+			"description_for_request": "Please request after making your profile that will be displayed on the request!"
+		},
+		"profile_Apply": {
+			"title": "Project Application Complete",
+			"description": "You have completed applying to the project."
+		},
+		"PhoneNumberVerified": "Phone Number Verified",
+		"Yourphonenumberhasbeenverified": "Your phone number has been verified.",
+		"Confirm": "Confirm",
+		"Congratulations": "Congratulations! You have completed over",
+		"80Done": "80% of your profile!",
+		"Youprofilecomplete": "You have been rewarded bonus coins because your profile is 80% complete!",
+		"Nowprojects": "Now you should participate in attractive projects! :)",
+		"editProject": {
+			"ProjectEditComplete": "Project Edit Complete",
+			"Youfinishededitingproject": "You have finished editing the project.",
+			"Confirm": "Confirm"
+		},
+		"projectCreate": {
+			"ProjectComplete": "Project Post Complete",
+			"finishedposting": "You have finished posting a project. You can work on other projects with more talented people!"
+		}
+	},
+	"21": {
+		"ProjectProfession/Field?": "Project Profession/Field?",
+		"CurrentPlanningStage?": "Current Planning Stage?",
+		"Budget?": "Budget?",
+		"Schedule?": "Schedule?",
+		"DesiredLocation?": "Desired Location?",
+		"OtherDetails": "Other Details",
+		"Previous": "Previous",
+		"Next": "Next",
+		"IdeaReady": "Idea Ready",
+		"ContentOrganizationComplete": "Content Organization Complete",
+		"DetailedPlanReady": "Detailed Plan Ready",
+		"Other": "Other",
+		"Directinput": "Direct input",
+		"Pleaseuploadimagesofplan": "Please upload images of plan",
+		"10MBorless": "10MB or less",
+		"Fileformat": "File format",
+		"SuggestedAmount": "Suggested Amount",
+		"won": "won",
+		"Negotiable": "Negotiable",
+		"ASAP": "ASAP",
+		"Notinahurry": "Not in a hurry",
+		"DirectInput": "Direct Input",
+		"SelectCity": "Select City",
+		"SelectDistrict": "Select District",
+		"Enterworkrelateddetails": "Enter work-related details",
+		"Finish": "Finish"
+	},
+	"dynamic": {
+		"Schedule": {
+			"negotiable": "Negotiable",
+			"asap": "ASAP",
+			"not-hurry": "Not in a hurry",
+			"direct": "Direct Input"
+		},
+		"desired_date": {
+			"weekdays": "Weekdays",
+			"weekend": "Weekend",
+			"weekdays-weekend": "Weekdays Weekend"
+		},
+		"desired_time": {
+			"morning": "Morning",
+			"afternoon": "Afternoon",
+			"evening": "Evening"
+		},
+		"desired_project_type": {
+			"short-term": "Short Term",
+			"long-term": "Long Term"
+		},
+		"insurance_status": {
+			"available": "Available",
+			"unavailable": "Unavailable"
+		},
+		"desired_work_type": {
+			"workfrom-office": "Workfrom Office",
+			"workfrom-home": "Workfrom Home"
+		},
+		"profession": {
+			"development": "Development",
+			"design": "Design",
+			"marketing": "Marketing",
+			"other": "Other"
+		},
+		"idea-ready": "Idea Ready",
+		"content-organization-complete": "Content Organization Complete",
+		"detailed-plan-ready": "Detailed Plan Ready",
+		"other": "Other",
+		"hourly": "Hourly Wage",
+		"daily": "Daily Wage",
+		"monthly": "Monthly Wage"
+	},
+	"adminpages": {
+		"memberlist": "Member List"
+	},
+	"membersearch": {
+		"membersearch": "Member Search"
+	},
+	"member": {
+		"register_member": "Register Member",
+		"see_profile": "See Profile",
+		"terminate_selected": "Terminate Selected",
+		"popup": {
+			"terminate": {
+				"title": "Terminate Account?",
+				"decription": "Do you want to terminate account of selected member?"
+			}
+		}
+	},
+	"admin_pages": {
+		"basic_settings": {
+			"admin_setting": "Admin Settings"
+		},
+		"member_settings": {
+			"member_list": "Member List",
+			"member_registration": "Member Registration",
+			"member_termination__deletion_management": "Member Termination/Deletion Management",
+			"member_payment_management": "Member Payment Management",
+			"reported_member_management": "Reported Member Management"
+		},
+		"project_settings": {
+			"project_list": "Project List",
+			"search_option_settings": "Search Option Settings"
+		},
+		"forum_settings": {
+			"forum_question_list": "Forum Question List",
+			"forum_response_list": "Forum Response List",
+			"report_management": "Report Management"
+		}
+	},
+	"member_termination": {
+		"date_of_termination": "Date of Termination"
+	},
+	"member_registration": {
+		"member_information": "Member Information"
+	},
+	"header": {
+		"searchSideCharacter": "Search Side Characters",
+		"project": "Project",
+		"forum": "Forum",
+		"bCoin": "B-Coin Guide",
+		"nickName": "Passion Man",
+		"client": "Client",
+		"SideCharacter": "Side Character",
+		"switchSideCharac": "Switch to Side Character",
+		"switchClientCharac": "Switch to Client",
+		"Switch_to_client": "Switch to client",
+		"MyProfile": "My Profile",
+		"MyPage": "My Page",
+		"LogOut": "Log Out",
+		"Hello!": "Hello!",
+		"SearchClients": "Search Clients",
+		"SearchProjects": "Search Projects",
+		"PostasSideCharacter": "Post as Side Character",
+		"PostasClient": "Post as Client",
+		"PostaProject": "Post a Project",
+		"Register": "Register",
+		"Nickname": "Nickname"
+	},
+	"index": {
+		"companyName": "Company Name",
+		"heading": "Register",
+		"formItem1": {
+			"labelName": "Name",
+			"placeholderName": "Enter name",
+			"labelEmail": "Email Address",
+			"placeholderEmail": "Enter Email Address",
+			"labelPassword": "Password",
+			"labelPassword1": "Passwords must be a combination of alphabets, numbers, special characters (6 or more characters).",
+			"placeholderPassword": "Enter Password",
+			"labelConfirmPassword": "Confirm Password",
+			"placeholderConfirmPassword": "Enter Confirm Password",
+			"nameRequired": "This is required information.",
+			"checkEmail": "Please check email again.",
+			"checkPassword": "Please check password one more time.",
+			"passwordNotMatch": "Password does not match.",
+			"usePropercharacters": "Use Korean and English letters.",
+			"emailAlreadyExist": "This email is already registered."
+		},
+		"dropdown": {
+			"val1": "Search Side Character",
+			"val2": "Search side characters to work with.",
+			"val3": "Search Client",
+			"val4": "Search clients to work with.",
+			"val5": "Search Project",
+			"val6": "Search projects to participate in."
+		},
+		"postDropdown": {
+			"val1": "Post as Side Character",
+			"val2": "Post as a side character and promote your work experience",
+			"val3": "Post as Client",
+			"val4": "Post as a client and advertise jobs",
+			"val5": "Post Project",
+			"val6": "Post your project and find people to work with"
+		},
+		"formItem2": {
+			"label": "Email Address",
+			"placeholder": "Enter Email Address"
+		},
+		"tab1": {
+			"labelClient": "Client",
+			"subTitle": "Register as Client"
+		},
+		"tab2": {
+			"labelClient": "Side Character",
+			"subTitle": "Register as Side Character"
+		},
+		"formEndContent1": "Your application activities will not be exposed to social media.",
+		"formEndContent2": {
+			"sp1": "Before clicking the ‘Register’ button, ",
+			"sp2": "I have read the Privacy Policy",
+			"sp3": "Terms of Use",
+			"sp4": "and",
+			"sp5": ", and agree."
+		},
+		"footer": "Copyright © MOODOOBK. ALL RIGHTS RESERVED."
+	},
+	"login": {
+		"heading": "Get Started",
+		"emailLabel": "Email Address",
+		"emailPlaceholder": "Enter email address",
+		"emailErrorMessage": "Please check email address again.",
+		"saveButton": "Get started with Email",
+		"googleText": "Get started with Google",
+		"facebookText": "Get started with Facebook",
+		"navertext": "Get started with Naver",
+		"talkText": "Get started with Kakaotalk",
+		"appleText": "Get started with Apple"
+	},
+	"emailvarify": {
+		"verifyEmail": "Email Verification",
+		"verifyEmailMsg": "Verify your email for service use.",
+		"emailAddress": "Email Address",
+		"saveButton": "Send Verification Email"
+	},
+	"emailConfirm": {
+		"verificationCode": "Verification Code",
+		"verificationCodePlaceholder": "Enter verification code",
+		"blueMsg": "Enter verification code from email.",
+		"codeIncorrect": "Verification code is incorrect.",
+		"saveButton": "Complete Email Verification",
+		"popUpTitle": "Email Verification Complete",
+		"popUpContent": "Email verification has been completed.",
+		"popUpButton": "Confirm"
+	},
+	"changePwd": {
+		"login": "Log In",
+		"password": "Password",
+		"passwordPlaceholder": "Enter password",
+		"resetPassword": "Reset or Change Password",
+		"passwordConfirmation": "Please check password one more time."
+	},
+	"resetPwd": {
+		"resetPassword": "Reset/Change Password",
+		"emailPlaceholder": "Enter email address",
+		"emailLinkMsg": "Password reset link will be sent to the email you registered with.",
+		"sendButton": "Send Reset Link",
+		"mailConfirmation": "Please check email again.",
+		"passwordResetLink": "Password reset link was sent to the email address.",
+		"resetPasswordMsg": "Reset the password after checking the email!",
+		"confirm": "Confirm",
+		"welcome": "Welcome!",
+		"popUpTitle": "Your account has been succesfully created.",
+		"bonusMsg": "You will receive bonus coins if you complete 80% or more of your profile now!",
+		"completeProfileMsg": "Complete your profile and promote your side character!",
+		"saveButton": "Complete Your Profile",
+		"passwordResetTitle": "Reset Password",
+		"newPassword": "New Password",
+		"confirmNewPassword": "Confirm New Password",
+		"newPasswordplaceHolder": "New Password",
+		"Enteragain": "Enter new Password again"
+	},
+	"proposalDeletion": {
+		"title": "Proposal Deletion",
+		"description": "Do you really want to delete your proposal?",
+		"yes": "Yes",
+		"no": "No"
+	},
+	"ptojectPostCompletePopup": {
+		"title": "Project Post Complete",
+		"description": "You have finished posting a project. You can work on other projects with more talented people!"
+	},
+	"projectEditingCompletePopup": {
+		"title": "Project Edit Complete",
+		"description": "You have finished editing the project."
+	},
+	"projectPostcollectionPopup": {
+		"title": "Project Post Cancellation",
+		"description": "Do you want to leave this page?"
+	},
+	"bCoinPurchasePopup": {
+		"title": "B-Coin Purchase",
+		"subTitle": "You can use this service after you purchase B-coins.",
+		"subTitle1": "Purchase B-coins and use more services! :)",
+		"buttonTitle": "Purchase B-Coins"
+	},
+	"paymentCompletePopup": {
+		"title": "Payment Complete",
+		"subTitle": "Payment has been completed!",
+		"subTitle1": "Check payment details.",
+		"buttonTitle": "Confirm"
+	},
+	"myInfoPageComplete": {
+		"title": "Information Change Complete",
+		"subTitle": "Information has been changed.",
+		"subTitle1": "Information has been changed."
+	},
+	"myPageAccountDeletion": {
+		"title": "Account Deletion",
+		"subTitle": "If you delete your account, all of your information will be deleted as well.",
+		"subTitle1": "Do you still want to delete your account?"
+	},
+	"logout": {
+		"title": "Log Out",
+		"subTitle": "Do you really want to log out?"
+	},
+	"formQuestionPop": {
+		"title": "Please make a profile",
+		"subTitle": "Please post a question after making your profile that will be displayed on the forum!",
+		"buttonTitle": "Go Make Profile"
+	},
+	"formQuestionPostPop": {
+		"title": "Forum Question Post Complete",
+		"subTitle": "Your question has been posted to the forum."
+	},
+	"formQuestionDeletePop": {
+		"title": "Do you want to delete?",
+		"subTitle": "Do you really want to delete the question?"
+	},
+	"formQuestionEditPop": {
+		"title": "Edit Complete",
+		"subTitle": "Question has been edited."
+	},
+	"projectAppCompletePop": {
+		"title": "Project Application Complete",
+		"subTitle": "You have completed applying to the project."
+	},
+	"notEnougnBcoin": {
+		"title": "Not Enough B-Coins",
+		"subTitle": "You do not have enough B-coins! Please try again after purchasing B-coins! :)"
+	},
+	"requestCompletePop": {
+		"title": "Request Complete",
+		"subTitle": "You have successfully requested an interview."
+	},
+	"phoneNumberVerificationPop": {
+		"title": "Phone Number Verified",
+		"subTitle": "Your phone number has been verified."
+	},
+	"profileRegisterCompletePop": {
+		"title": "Profile Registration Complete",
+		"subTitle": "You have completed registering your profile. Complete over 80% and receive bonus B-coins!"
+	},
+	"paymentPop": {
+		"title": "Payment",
+		"date": "2 years starting",
+		"coin": "coins",
+		"won": "won",
+		"pay": "Pay "
+	},
+	"home": {
+		"search": "Search",
+		"post": "Post",
+		"forum": "Forum",
+		"bcoin": "B-Coin Guide",
+		"start": "Get Started",
+		"heading": "Heading",
+		"CEO": "CEO",
+		"Business_Registration": "Business Registration No.",
+		"Homepage": "Homepage",
+		"staff": "Staff member on weekdays, CTO on weekends",
+		"first": {
+			"para1": "My job, not my business",
+			"para1a": " Do you want to do it after work?",
+			"para2": " Set the day, time, and type of employment you want to work",
+			"para2a": "Do it with like-minded colleagues.",
+			"para4": "Search"
+		},
+		"second": {
+			"para1": "about work",
+			"para1a": "Do you have a lot of questions?",
+			"para2": "Feel free to ask the experts",
+			"para2a": "Feel free to reply!",
+			"para3": "Go to Knowledge Talk",
+			"para4": "Talk"
+		},
+		"third": {
+			"para1": "Profile",
+			"para2": "how do i tell someone else",
+			"para2a": "Can I appeal to you in an attractive way?",
+			"para3": "to appeal to others as attractive",
+			"para3a": "Do you want to meet good talents?",
+			"para4": "Register your profile"
+		},
+		"forth": {
+			"para1": "Project",
+			"para2": "How to get good people",
+			"para2a": "Can we work together?",
+			"para3": "Interesting projects with good talents",
+			"para3a": "If you want to collaborate with us, click here!",
+			"para4": "Register your project"
+		},
+		"footer": {
+			"para1": "Terms of Use",
+			"para2": "CEO",
+			"para3": "Homepage",
+			"para4": "Privacy Policy",
+			"para5": "Business Registration No.",
+			"para6": "Affiliation Inquiry",
+			"para7": "Email",
+			"para8": "Customer Service Center",
+			"para9": "Address",
+			"para1a": "Copyright © MOODOOBK. ALL RIGHTS RESERVED."
+		}
+	},
+	"search": {
+		"arr": [
+			{
+				"label": "Profession",
+				"value": "Developer"
+			},
+			{
+				"label": "Field",
+				"value": " IT/Web Development/Web Service Planning"
+			},
+			{
+				"label": "Location",
+				"value": " Seoul-si Mapo-gu, Seoul-si Yangchun-gu"
+			},
+			{
+				"label": "Desired Date",
+				"value": "Weekdays/Weekend"
+			},
+			{
+				"label": "Desired Time",
+				"value": "Evening"
+			},
+			{
+				"label": "Desired Type",
+				"value": "Short-term Project (less than 3 months)"
+			},
+			{
+				"label": "Insurance",
+				"value": "Needed"
+			},
+			{
+				"label": "Work Type",
+				"value": " Work from Office"
+			}
+		],
+		"sideChar": "Search side character",
+		"searchClient": "Search Clients",
+		"passion": "Passion man",
+		"switch": "Switch to side character",
+		"bonus": " You will receive bonus coins when you complete over 80% of your profile!",
+		"findChar": " Find side character",
+		"dev": "Development",
+		"rcvreq": " Received Requests",
+		"sentreq": " Sent Requests",
+		"myLike": "My Likes",
+		"searchOp": "Search Option Settings",
+		"nickName": "Nickname",
+		"exp1": "9 years of experience",
+		"exp2": "7 yrs 10 mnths of experience",
+		"exp3": "No Experience",
+		"detail": "See Details",
+		"reqcon": "Request Contact",
+		"info": "Information",
+		"p1": " Hello. I am a developer with 9 years of experience! I am looking for hard-working people to work with me :)",
+		"workexp": "Work Experience",
+		"end": "Company Name / Position / Years (and Months) of Experience",
+		"more": "See more",
+		"dropdown": {
+			"val1": "All",
+			"val2": "Development",
+			"val3": "Design",
+			"val4": "Marketing",
+			"val5": "Other"
+		},
+		"pageName": "Search",
+		"lastSeen": "1 hour ago",
+		"sideCharacterBeforeLogin": {
+			"postSideCharac": "Post a side character"
+		},
+		"clientbeforeLogin": {
+			"findClient": "Find clients",
+			"postClient": "Post as a client",
+			"individual": "Individual",
+			"company": "Company"
+		},
+		"projectBeforeLogin": {
+			"findProject": "Find Projects",
+			"postProject": "Post a project"
+		}
+	},
+	"project": {
+		"myProject": "My Projects",
+		"IT/webService": "IT/Web Service Planning",
+		"seeMyProposal": "See my proposal",
+		"seeMyProposal1": "See my proposal",
+		"projectApp": "Project Application",
+		"SentProposals": "Sent Proposals"
+	},
+	"bCoin": {
+		"purchaseBcoin": "Purchase B-Coins",
+		"coins": "Coins",
+		"won": "won",
+		"notice": "Notice",
+		"list1": "You must use all B-coins within 2 years of purchase.",
+		"list2": "After 2 years, B-coins will automatically perish.",
+		"list3": "Purchased B-coins cannot be refunded.",
+		"list4": "If you complete your profile, you will be rewarded an additional 10% of bonus coins."
+	},
+	"myPages": {
+		"title": "My Page",
+		"name": "Lee Moa",
+		"ItKing": "IT King",
+		"email": "joony@gmail.com",
+		"bCoinstore": "B-Coin Store",
+		"purchasehistory": "Purchase/Use History",
+		"Purchase/UseHistory": "Purchase/Use History",
+		"notificationSetting": "Notification Setting",
+		"languageSetting": "Language Setting",
+		"button": "coins left",
+		"korean": "Korean",
+		"english": "English",
+		"infosetting": "Information Setting",
+		"labelName": "Name",
+		"save": "Save",
+		"deleteAcc": "Delete Account",
+		"interviewReq": "Interview Request",
+		"bCoinPurchase": "B-Coin Purchase",
+		"bCoinOwn": "B-Coins You Own",
+		"bonusbcoin": "Bonus B-Coins",
+		"notification": "Notification"
+	},
+	"notificationPage": {
+		"answeredQuestion": "Someone answered your question.",
+		"requestedInterview": "Someone requested an interview."
+	},
+	"searchFormSidecharacter": {
+		"desiredClient": "Who is your desired client?"
+	},
+	"clientProfile": {
+		"requiredField": "Required field",
+		"clientProfileStep1": {
+			"enterProfile": "Enter profile",
+			"SideCharacterProfile": "Side Character Profile",
+			"nickNameLabel": "Enter Nickname",
+			"introductionLabel": "Enter Introduction",
+			"contactLabel": " Enter Contact Information",
+			"codeButton": "Send verification code",
+			"codeLabel": "Enter verification code",
+			"codeMsg": "A verification code has been sent.",
+			"invalidCodeMsg": "You have entered invalid verification code",
+			"professionLabel": "What is your profession?",
+			"fieldLabel": "What is your field?",
+			"fieldPlaceholder": "Enter field",
+			"locationLabel": "Where is your location?",
+			"CityLabel": "City/Province",
+			"countyLabel": "City/County/District",
+			"homepageLabel": "Enter homepage link",
+			"homepageURL": "Enter homepage URL",
+			"fbLabel": "Enter Facebook link",
+			"fbURL": "Enter Facebook URL",
+			"instaLabel": "Enter Instagram link",
+			"instaURL": "Enter Instagram URL",
+			"otherLabel": "Enter other links",
+			"otherURL": "Enter other URL",
+			"imageLabel": "Upload introductory images",
+			"less10": "Less than 10MB",
+			"fileFormat": "File format:",
+			"verify": "Send verification code",
+			"multipleSelection": "Multiple Selection Available",
+			"SideCharacterProfile1": "Side Character Profile"
+		},
+		"clientProfileStep2": {
+			"companyInfo": "Enter company information",
+			"uploadImage": "Please upload introductory images",
+			"areYouCompany": "Are you a company?",
+			"noCompany": "No, I am not a company.",
+			"yesCompany": "Yes, I am a company.",
+			"companyNameLabel": "What is your company name?",
+			"companyInfoLabel": "Once you save Company Name, Side Characters will see it on your profile instead of Nickname.",
+			"companyPlaceholder": "Enter Company Name",
+			"companyIntroLabel": "Enter company introduction",
+			"hashtagLabel": "Enter related hashtags",
+			"enterLabel": "Enter",
+			"Entercompany’sregistrationnumber": "Enter company’s registration number",
+			"companyProfLabel": "What is your company’s profession?",
+			"companyFieldLabel": "What is your company’s field?",
+			"companyFieldLimit": "Select up to 3",
+			"companyRegisLabel": "What is your company’s registration number?",
+			"companyRegisPlaceholder": "Enter company’s registration number",
+			"companyFoundLabel": "When was it founded?",
+			"companyFoundDate": "Enter the date",
+			"companyRepLabel": "What is the name of the representative?",
+			"companyRepPlaceholder": "Enter the name of the representative",
+			"companyEmpLabel": "How many employees?",
+			"companyEmpPlaceholder": "Enter the number of employees",
+			"prevBtn": "Previous",
+			"EnterCompanyIntroduction": "Enter Company Introduction",
+			"Entercontactinformation": "Enter contact information",
+			"EnterRelatedHashtags": "Enter Related Hashtags",
+			"numberError":"Please Only Number",
+			"nextBtn": "Next"
+		},
+		"clientProfileStep3": {
+			"activityInfo": "Enter activity information",
+			"weekdaysLabel": "Weekdays",
+			"weekendLabel": "Weekend",
+			"morningLabel": "Morning",
+			"noonLabel": "Afternoon",
+			"projectLabel": "What is your desired project type?",
+			"longTermLabel": "Long-term Project",
+			"more3month": "More than 3 months",
+			"Morethan3months": "More than 3 months",
+			"dateLabel": "Desired Date",
+			"avilbleLabel": "Available",
+			"insuranceLabel": "Can you provide insurance?",
+			"unavailable": "Unavailable",
+			"workTypeLabel": "What is your desired work type?",
+			"workHome": "Work from Home",
+			"cmpltBtn": "Complete",
+			"weekday/end": "Weekdays/Weekend",
+			"timeLabel": "Desired Time",
+			"eveLabel": "Evening",
+			"shortTermProject": "Short-term Project",
+			"less3Mon": "less than 3 months",
+			"fromOfc": " Work from Office"
+		},
+		"IntroductoryImages": "Introductory Images",
+		"Hashtags": "Hashtags",
+		"CompanyIntroduction": "Company Introduction",
+		"PlannedProjects": "Planned Projects",
+		"company": {
+			"CompanyInformation": "Company Information",
+			"CompanyName": "Company Name",
+			"PhoneNumber": "Phone Number",
+			"CompanyProfession": "Company Profession",
+			"CompanyField": "Company Field",
+			"Location": "Location",
+			"CompanyRegistrationNumber": "Company Registration Number",
+			"FoundationYear": "Foundation Year",
+			"RepresentativeName": "Representative Name",
+			"NumberofEmployees": "Number of Employees"
+		}
+	},
+	"sideCharacterProfile": {
+		"workExp": {
+			"Title1": "Are you unexperienced or experienced?",
+			"unExp": "Unexperienced",
+			"Exp": "Experienced",
+			"CmpPlaceHoder": "Carrot Market",
+			"totalExp": "Total Experience",
+			"employmentPeriod": "Employment Period",
+			"employmentCurrent": "Employed Currently",
+			"position": "Position",
+			"enterPosition": "Enter Position",
+			"profession": "Profession",
+			"profPlaceHolder": "Enter profession",
+			"deleteExp": "Delete Experience",
+			"addExp": "Add Experience"
+		},
+		"MyProfile": "My Profile",
+		"BasicInformation": "Basic Information",
+		"PhoneNumber": "Phone Number",
+		"Profession": "Profession",
+		"Field": "Field",
+		"Location": "Location",
+		"WorkExperience": "Work Experience",
+		"TotalExperience": "Total Experience",
+		"Experience": "Experience ",
+		"ActivityInformation": "Activity Information",
+		"DesiredDate": "Desired Date",
+		"DesiredTime": "Desired Time",
+		"DesiredProjectType": "Desired Project Type",
+		"Insurance": "Insurance",
+		"DesiredWorkType": "Desired Work Type",
+		"Links": "Links",
+		"Portfolio": "Portfolio",
+		"SeeMore": "See More",
+		"EditProfile": "Edit Profile"
+	},
+	"giftBox": {
+		"title": "You will receive bonus coins when you complete over 80% of your profile!"
+	},
+	"admin": {
+		"adminlogin": "Admin Log In",
+		"id": "ID",
+		"password": "Password",
+		"login": "Log In",
+		"idplaceholder": "Enter email address",
+		"passplaceholder": "Enter password",
+		"emailwrong": "Please check email address again."
+	},
+	"adminheader": {
+		"basic": "Basic Settings",
+		"basicadminsetting": "Admin Settings",
+		"member": "Member Settings",
+		"project": "Project Settings",
+		"forum": "Forum Settings"
+	},
+	"adminbutton": {
+		"register": "Register Admin",
+		"search": "Search",
+		"edit": "Edit",
+		"selectall": "Select All",
+		"deleteselected": "Delete Selected",
+		"cancel": "Cancel",
+		"save": "Save",
+		"download": "Download Excel File"
+	},
+	"adminsearch": {
+		"searchresult": "Search Result",
+		"adminsearch": "Admin Search",
+		"keyword": "Keyword",
+		"unifiled": "Unified Search",
+		"enterkey": "Enter keyword",
+		"id": "ID",
+		"name": "Name",
+		"email": "Email Address",
+		"phone": "Phone Number"
+	},
+	"adminuserlist": {
+		"entirelist": "Entire List",
+		"select": "Select",
+		"number": "Number",
+		"id": "ID",
+		"name": "Name",
+		"email": "Email Address",
+		"phone": "Phone Number",
+		"emptype": "Employee Type",
+		"autority": "Authority",
+		"dateregister": "Date of Registration",
+		"editinfo": "Edit Information"
+	},
+	"adminregister": {
+		"adminregister": "Admin Registration",
+		"basicinfo": "Basic Information",
+		"id": "ID",
+		"enterid": "Enter ID",
+		"name": "Name",
+		"entername": "Name",
+		"email": "Email Address",
+		"enteremail": "Enter email address",
+		"giveautority": "Give Admin Authority",
+		"pass": "Password",
+		"enterpass": "Enter password",
+		"contect": "Contact Information",
+		"entercontect": "Enter contact information",
+		"emptype": "Employee Type",
+		"emp": "Employee Type (Ex: Full-time, Part-time, Freelancer, Dispatch)"
+	},
+	"adminmembermaanagement": {
+		"ReportedMemberManagement": "Reported Member Management",
+		"ReportedMemberList": "Reported Member List",
+		"Category": "Category",
+		"Writer": "Writer",
+		"DateofEntry": "Date of Entry",
+		"NumberofReports": "Number of Reports",
+		"Details": "Details",
+		"All": "All",
+		"SideCharacterProfile": "Side Character Profile",
+		"ClientProfile": "Client Profile",
+		"RequestContactInformation": "Request Contact Information",
+		"RequestInterview": "Request Interview"
+	},
+	"adminpaymentmanagement": {
+		"MemberPaymentManagement": "Member Payment Management",
+		"DateofPayment": "Date of Payment",
+		"PaymentInformation": "Payment Information",
+		"SeeDetails": "See Details",
+		"GotoList": "Go to List",
+		"‘sPaymentInformation": "‘s Payment Information",
+		"UseHistory": "Use History",
+		"PurchaseHistory": "Purchase History",
+		"Date": "Date",
+		"CoinAmount": "Coin Amount",
+		"PaymentAmount": "Payment Amount",
+		"DateofUse": "Date of Use",
+		"UsedCoins": "Used Coins",
+		"Details": "Details"
+	},
+	"memberProfile": {
+		"MemberInformation": "Member Information",
+		"CompanyInformation": "Company Information",
+		"WorkExperienceInformation": "Work Experience Information",
+		"ActivityInformation": "Activity Information",
+		"Experienced?": "Experienced?",
+		"Experience": "Experience ",
+		"EmploymentPeriod": "Employment Period",
+		"Position": "Position",
+		"Total": "Total",
+		"years": "years",
+		"SeeProfile": "See Profile",
+		"GotoList": "Go to List",
+		"SideCharacterProfile": "Side Character Profile",
+		"ClientProfile": "Client Profile",
+		"Company?": "Company?",
+		"CompanyName": "Company Name",
+		"CompanyIntroduction": "Company Introduction",
+		"RelatedHashtags": "Related Hashtags",
+		"Profession": "Profession",
+		"Field": "Field",
+		"Location1": "Location 1",
+		"Location2": "Location 2",
+		"BusinessRegistrationNumber": "Business Registration Number",
+		"YearofFoundation": "Year of Foundation",
+		"RepresentativeName": "Representative Name",
+		"NumberofEmployees": "Number of Employees",
+		"DesiredDate": "Desired Date",
+		"DesiredTime": "Desired Time",
+		"DesiredProjectType": "Desired Project Type",
+		"Insurance": "Insurance",
+		"DesiredWorkType": "Desired Work Type",
+		"Name": "Name",
+		"Nickname": "Nickname",
+		"MyIntroduction": "My Introduction",
+		"ContactInformation": "Contact Information",
+		"HomepageLink": "Homepage Link",
+		"FacebookLink": "Facebook Link",
+		"InstagramLink": "Instagram Link",
+		"OtherLink": "Other Link",
+		"Portfolio": "Portfolio"
+	},
+	"projectRegistrationClient": {
+		"pageTitle": "Project Registration"
+	},
+	"projectCreation": {
+		"ProjectProfession/Field?": "Project Profession/Field?",
+		"mobProject_Profession/Field?": "Project Profession/Field?",
+		"CurrentPlanningStage?": "Current Planning Stage?",
+		"Budget?": "Budget?",
+		"Schedule?": "Schedule?",
+		"DesiredLocation?": "Desired Location?",
+		"OtherDetails": "Other Details",
+		"Previous": "Previous",
+		"Next": "Next",
+		"IdeaReady": "Idea Ready",
+		"ContentOrganizationComplete": "Content Organization Complete",
+		"DetailedPlanReady": "Detailed Plan Ready",
+		"Other": "Other",
+		"Directinput": "Direct input",
+		"Pleaseuploadimagesofplan": "Please upload images of plan",
+		"10MBorless": "10MB or less",
+		"Fileformat": "File format",
+		"SuggestedAmount": "Suggested Amount",
+		"won": "won",
+		"Negotiable": "Negotiable",
+		"ASAP": "ASAP",
+		"Notinahurry": "Not in a hurry",
+		"DirectInput": "Direct Input",
+		"SelectCity": "Select City",
+		"SelectDistrict": "Select District",
+		"Enterworkrelateddetails": "Enter work-related details",
+		"Finish": "Finish"
+	},
+	"seeProjectDetails": {
+		"Projectprofession": "Project profession?",
+		"Projectfield": "Project field?",
+		"Reject": "Reject",
+		"Accept": "Accept",
+		"Acceptcoins": "Accept with 1000 coins",
+		"Projectplanningstage": "Project planning stage?",
+		"Projectbudget": "Project budget?",
+		"Projectscheduledfor": "Project scheduled for?",
+		"Desiredlocation": "Desired location?",
+		"Otherdetails": "Other details",
+		"ProjectImages": "Project Images",
+		"Delete": "Delete",
+		"Edit": "Edit",
+		"applicants": "applicants"
+	},
+	"profilePlaceholder": {
+		"Enternickname": "Enter nickname",
+		"Enterintroduction": "Enter introduction",
+		"Entercontactinformation": "Enter contact information",
+		"Entercontactinformation1": "Enter contact information",
+		"Sendverificationcode": "Send verification code",
+		"Enterverificationcode": "Enter verification code",
+		"Verify": "Verify"
+	},
+	"accountDeletion": {
+		"subTitle": "If you delete your account, all of your information will be deleted as well.",
+		"subTitle1": "Do you still want to delete your account?",
+		"no": "No"
+	},
+	"forumPopup": {
+		"questionInput": {
+			"cancelBtn": "Cancel",
+			"askBtn": "Ask",
+			"placeholder": {
+				"selectCategory": "Select Category",
+				"enterQuestion": "Enter a question.",
+				"enterLink": "Enter link"
+			}
+		},
+		"questionComplete": {
+			"title": "Forum Question Post Complete",
+			"description": "Your question has been posted to the forum."
+		},
+		"questionDelete": {
+			"title": "Do you want to delete?",
+			"description": "Do you really want to delete the question?"
+		},
+		"questionEdit": {
+			"title": "Edit Complete",
+			"description": "Question has been edited."
+		}
+	}
+}

@@ -1,0 +1,1137 @@
+.pp-privacypolicy-page .pp-custom-scroll1::-webkit-scrollbar, .tc-termscondition-page .tc-content-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+
+.pp-privacypolicy-page .pp-custom-scroll1::-webkit-scrollbar, .tc-termscondition-page .tc-content-scroll::-webkit-scrollbar {
+  height: 2px;
+}
+
+.pp-privacypolicy-page .pp-custom-scroll1::-webkit-scrollbar-track, .tc-termscondition-page .tc-content-scroll::-webkit-scrollbar {
+  box-shadow: none;
+  background-color: transparent;
+  border-radius: 10px;
+}
+
+.pp-privacypolicy-page .pp-custom-scroll1::-webkit-scrollbar-thumb, .tc-termscondition-page .tc-content-scroll::-webkit-scrollbar {
+  background: var(--#000000);
+}
+
+.pp-privacypolicy-page .pp-custom-scroll1::-webkit-scrollbar-thumb:hover, .tc-termscondition-page .tc-content-scroll::-webkit-scrollbar {
+  background: var(--#000000);
+}
+
+.privacypolicy-main-page, .termscondition-main-page {
+  width: 640px;
+  margin: 0 auto;
+  padding: 50px 50px 60px 50px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.pp-main-title p, .tc-title p {
+  width: 100%;
+  height: 20px;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16px;
+  color: #16181c;
+}
+
+.pp-scroll-content-bar p, .terms-scroll-content-bar p {
+  height: 775px;
+  font-family: Roboto;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 30px;
+  color: #16181c;
+  overflow-y: scroll;
+}
+
+.pp-conform-btn, .check-btn {
+  padding-top: 37px;
+}
+
+
+.pp-conform-btn button, .check-btn button {
+  width: 100%;
+  height: 68px;
+  border-radius: 20px;
+  background: #00d6e3;
+  border: none;
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.reset-register-password {
+  width: 640px !important;
+}
+
+.reset-register-password .ph-reset-password-heading {
+  font-size: 40px !important;
+  line-height: 36px !important;
+}
+
+.ph-reset-password-title {
+  margin-bottom: 50px !important;
+}
+
+.ph-resetpassword-card {
+  padding: 60px 50px;
+  margin-bottom: 100px !important;
+}
+
+.ant-card-body {
+  padding: 0 !important;
+}
+
+.ph-resetpass-inputbox {
+  padding-top: 80px !important;
+  margin-bottom: 9px;
+}
+
+.ph-ressetpassword-primary-btn {
+  background: rgba(191, 194, 194, 0.2) !important;
+  margin: 0 !important;
+}
+
+.ph-resetpassword-save-btn {
+  margin-top: 0 !important;
+}
+
+.ph-resetpassword-box {
+  margin-bottom: 0 !important;
+}
+
+.ph-resetpassword-confirmation {
+  margin-top: 0 !important;
+}
+
+.ph-resetpassword-confirmation-title {
+  position: absolute;
+  color: #9A9A9A;
+  margin-top: 10px !important;
+  margin-bottom: 0 !important;
+  font-size: 16px !important;
+  line-height: 36px !important;
+}
+
+.ph-resetpassword-newpass-title {
+  line-height: 36px !important;
+}
+
+.ph-custom-resetpassword .password-input {
+  height: 90px !important;
+}
+
+.ph-custom-resetpassword .ant-form-item-explain.ant-form-item-explain-error {
+  margin-top: 0px !important;
+  margin-bottom: 0 !important;
+}
+
+.ph-resetpass-label {
+  margin-bottom: 0 !important;
+}
+
+.ph-custom-resetpassword .ant-form-item-label {
+  padding-bottom: 20px !important;
+}
+
+.ph-custom-resetpassword .ant-form-item-control {
+  height: 90px !important;
+}
+
+.ph-resetpass-label .ant-form-item-control {
+  height: 49px !important;
+}
+
+.ph-custom-resetpassword .ant-form-item-control-input {
+  min-height: 49px !important;
+}
+
+.main-content-outer .ant-card-body {
+  padding: 60px 50px !important;
+}
+
+.ph-custom-resetpassword-span {
+  position: absolute;
+  padding-top: 0px !important;
+  margin-top: 14px !important;
+}
+
+.ph-custom-title {
+  margin-bottom: 12px !important;
+}
+
+.ph-custom-title2 {
+  margin-bottom: 0 !important;
+}
+
+.pm-pop-custom-box .ant-modal-body {
+  padding: 30px 30px 60px 30px !important;
+}
+
+.pm-pop-custom-box {
+  padding: 0px;
+}
+
+.pm-pop-custom-box .ft-popup-img {
+  margin-top: 50px;
+}
+
+.pm-pop-custom-box .ant-modal-close-x {
+  margin-top: 35px;
+  margin-right: 13px !important;
+}
+
+.pm-emailconfirmation-card {
+  padding: 60px 50px !important;
+}
+.pm-disabled-btn {
+  background: #00D6E3 !important;
+}
+.pop-title-email-verify {
+  padding-bottom: 0 !important;
+}
+.pop-title-email-verify .pm-emailconfirmation-title, .pop-title-email-verify .pm-custom-emailconfirmation-title {
+   line-height: 36px !important;
+}
+.pop-title-email-verify  .pm-emailconfirmation-disable-btn span {
+  line-height: 28px !important;
+}
+
+.pm-line-height-m2 {
+  line-height: 36px;
+}
+
+.pm-emailVerify-content, .pm-emailConfirm-content, .pm-enter-password-content {
+  margin-bottom: 20px !important;
+}
+
+.pm-login-footer {
+  line-height: 17.38px;
+}
+
+.pm-emailVerify-submit-btn, .pm-emailConfirmation-submit-btn  {
+  margin-top: 26px !important;
+}
+
+.pm-emailConfirmation  {
+  margin-bottom: 50px !important;
+}
+
+.pm-disabled-btn-opa {
+  opacity: 0.5;
+}
+@media (max-width: 639px) {
+  .tc-bg, .pp-bg {
+    background: #000000;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.05);
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 0;
+    z-index: 2;
+    opacity: 0.7;
+  }
+
+  .privacy-policy-box, .tc-content-outer {
+    position: relative;
+    top: 50px;
+  }
+
+  .privacypolicy-main-page, .termscondition-main-page {
+    width: 280px;
+    height: 435px;
+    position: absolute;
+    padding: 19px 20px 25px 20px;
+    top: 4px !important;
+    left: 20px !important;
+    right: 20px !important;
+    margin-top: -79px;
+    margin-bottom: 0;
+    z-index: 9;
+    border-radius: 10px !important;
+  }
+
+  .pp-scroll-content-bar p, .terms-scroll-content-bar p {
+    height: 293px;
+    font-family: SpoqaHanSans;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    margin-bottom: 0;
+    overflow-y: scroll;
+  }
+
+  .pp-main-title p, .tc-title p {
+    font-size: 16px !important;
+    font-family: roboto !important;
+    margin-bottom: 30px;
+  }
+
+  .pp-conform-btn button, .check-btn button {
+    width: 240px;
+    height: 40px;
+    margin-top: 8px;
+    font-size: 12px;
+    border-radius: 10px;
+    line-height: 28px;
+  }
+
+  .pp-conform-btn, .check-btn {
+    padding-top: 0;
+  }
+}
+
+@media (max-width: 639px) {
+  .Register-img-box .Clientdark, .Register-img-box .Client, .Register-img-box1 .Sidecharc, .Register-img-box1 .Sidecharcdark {
+    margin-bottom: 9px !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  .registerTabModalCard .ant-card-body {
+    padding: 30px 20px 20px 20px !important;
+  }
+
+  .Register-img-box p, .Register-img-box1 p {
+    height: 16px !important;
+    font-size: 12px;
+    line-height: 16px !important;
+  }
+
+  .Register_formLabel__2FU6o {
+    height: 14px;
+    font-size: 12px !important;
+    font-family: SpoqaHanSans !important;
+    line-height: 16px !important;
+  }
+
+  .regitser-footerContent {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 36px !important;
+  }
+
+  .footer-text {
+    line-height: 14px !important;
+    height: 14px !important;
+    margin-bottom: 0 !important;
+    font-size: 10px !important;
+    font-weight: 400 !important;
+    letter-spacing: -0.5px;
+  }
+
+  .ft-register-page .ft-reg-term {
+    font-size: 10px !important;
+    line-height: 14px;
+    letter-spacing: -0.5px !important;
+  }
+
+  .reg-Login-btn {
+    margin-top: 32px;
+    line-height: 20px !important;
+    background: rgba(0, 214, 227, 0.2) !important;
+    height: 40px !important;
+    border-radius: 10px !important;
+    opacity: 1 !important;
+  }
+
+  .reg-Login-btn span {
+    font-size: 14px !important;
+    line-height: 20px !important;
+  }
+
+  .ph-custom-diseble {
+    margin-top: 32px;
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+
+  .ph-custom-diseble span {
+    line-height: 20px !important;
+    font-size: 14px !important;
+  }
+
+  .ph-custom-password {
+    background: rgba(0, 214, 227, 0.2) !important;
+    border-radius: 10px !important;
+    height: 40px !important;
+  }
+
+  .ph-custom-verify-btn, .ph-custom-verify-btn1 {
+    background: rgba(0, 214, 227, 0.2) !important;
+    border-radius: 10px !important;
+    height: 40px !important;
+    margin-top: 22px !important;
+  }
+
+  .ph-custom-enable-regbtn {
+    margin-top: 22px;
+  }
+
+  .ph-ft-submit-btn {
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+
+  .ph-ft-submit-btn span {
+    font-family: roboto !important;
+    line-height: 16px !important;
+    font-size: 12px !important;
+  }
+
+  .ph-custom-submit-btn, .ph-custom-enable, .ph-custom-enable-regbtn, .ph-custom-password1 {
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+
+  .ph-custom-submit-btn span, .ph-custom-enable span, .ph-custom-enable-regbtn span, .ph-custom-password1 span, .ph-custom-verify-btn span, .ph-custom-verify-btn1 span {
+    line-height: 20px !important;
+    font-size: 14px !important;
+  }
+
+  .ph-custom-enable1 span {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  .ph-custom-item {
+    margin-bottom: 0 !important;
+  }
+
+  .ant-form-item:last-child {
+    margin-bottom: 0 !important;
+  }
+
+  .regiterBtnRow {
+    margin-top: 0 !important;
+    height: 68px !important;
+  }
+
+  .password-hint {
+    position: relative !important;
+    font-size: 10px !important;
+    margin-top: 0px !important;
+    line-height: 14px;
+    letter-spacing: -0.5px;
+  }
+
+  .ph-custom-title-notic {
+    font-size: 10px;
+    line-height: 14px;
+    position: absolute !important;
+    top: -10px !important;
+  }
+
+  .ant-row .ant-form-item {
+    padding-top: 32px;
+  }
+
+  .ph-custom-regtitle {
+    margin-top: 0 !important;
+  }
+
+  .ft-enter-pass {
+    min-height: 0 !important;
+    margin-top: 18px;
+  }
+
+  .custom-reg-form {
+    padding-top: 30px !important;
+  }
+
+  .pm-register-email-ctn {
+    margin-top: 20px !important;
+  }
+
+  .pm-register-pwd-ctn {
+    margin-top: 20px !important;
+  }
+
+ 
+
+  .ph-custom-regtitle .fe-input-error, .custom-reg-form .fe-input-error, .ft-register-page .ant-form-item-explain.ant-form-item-explain-error div, .ph-resetpass-label .ant-form-item-explain-error {
+    position: absolute !important;
+    bottom: 250px;
+  }
+
+  .ph-custom-regtitle .pm-custom-input-error {
+    bottom: 240px;
+  }
+
+  .ft-register-page .ant-form-item-explain.ant-form-item-explain-error div {
+    bottom: -15px;
+  }
+
+  .ph-resetpass-label .ant-form-item-explain-error {
+    top: 31px;
+  }
+
+  .ph-custom-regtitle .alert {
+    font-family: Roboto !important;
+    line-height: 14px !important;
+    font-size: 10px !important;
+    letter-spacing: -0.5px !important;
+  }
+
+  .fe-input-error, .ft-register-page .ant-form-item-explain.ant-form-item-explain-error div {
+    font-family: Roboto !important;
+    line-height: 14px !important;
+    font-size: 10px !important;
+    letter-spacing: -0.5px !important;
+  }
+
+  /* .ph-resetpass-label .form-input {
+    font-size: 11px !important;
+    line-height: 16px !important;
+    letter-spacing: -0.5px;
+  } */
+
+  .ph-resetpass-inputbox .form-input {
+    line-height: 16px !important;
+    font-size: 11px !important;
+    letter-spacing: -0.5px !important;
+  }
+
+  .ph-custom-resetpassword {
+    padding-top: 0 !important;
+  }
+
+  .fe-input-error, .ft-register-page .ant-form-item-explain.ant-form-item-explain-error {
+    margin-top: 0px !important;
+  }
+
+  .ft-reg-modal.ant-tabs.registerSteps .ant-tabs-nav {
+    margin-bottom: 0 !important;
+  }
+
+  .ft-register-page .ant-form-item-control {
+    height: 44px !important;
+  }
+
+  .login-email {
+    height: 32px !important;
+    line-height: 22px;
+  }
+
+  .Login-btn {
+    font-size: 14px !important;
+  }
+
+  .Social-media-btn {
+    padding: 12px 12px 12px 12px !important;
+    height: 40px !important;
+    margin-bottom: 10px !important;
+    border-radius: 10px !important;
+    border: 0.5px solid #cacaca !important;
+  }
+
+  .Social-media-btn .social-text {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  .Social-outer-box {
+    margin-top: 20px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .social-outer button:last-child {
+    margin-bottom: 0 !important;
+  }
+
+  .mb-100 {
+    margin-bottom: 0 !important;
+  }
+
+  .Custom-img {
+    width: 18px !important;
+    height: 18px !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+  }
+
+  .ant-form-vertical {
+    margin-bottom: 0 !important;
+  }
+
+  .ant-form-item-explain.ant-form-item-explain-error {
+    position: relative;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .register-confirm-msg .ant-card-body {
+    padding: 30px 20px 20px 20px !important;
+  }
+
+  .register-confirm-msg {
+    margin-bottom: 0 !important;
+  }
+
+  .custom-datails {
+    margin-top: 10px !important;
+    font-size: 10px !important;
+    line-height: 14px !important;
+    letter-spacing: -0.5px !important;
+    margin-bottom: 10px !important;
+  }
+
+  .confirmPassworError .form-input, .custom-reg-form .input-eighteen {
+    line-height: 16px !important;
+    letter-spacing: -0.5px;
+    font-size: 11px !important;
+  }
+
+  .confirmPassworError .form-input::placeholder, .custom-reg-form .input-eighteen::placeholder {
+    line-height: 14px !important;
+    letter-spacing: -0.5px;
+    font-size: 11px !important;
+  }
+
+  .ev-btn {
+    margin-top: 0 !important;
+  }
+
+  .registerTabModal .ant-form-item-label {
+    margin-bottom: 8px !important;
+    line-height: 16px !important;
+  }
+
+  .confirmPassworError {
+    margin-top: 20px !important;
+  }
+
+  .custom-reset-password-title {
+    font-size: 12px !important;
+  }
+
+  .ph-custom-reg-title {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-weight: normal !important;
+    letter-spacing: -0.5px !important;
+  }
+
+  .custom-lonin-title {
+    font-size: 12px !important;
+  }
+
+  .register-confirm-msg .custom-reset-password-title {
+    margin-bottom: 8px !important;
+  }
+
+  .register-confirm-msg .custom-reset-password-title label {
+    margin-bottom: 0 !important;
+  }
+
+  .ph-custom-resetpassword .ant-form-item-label {
+    padding-bottom: 8px !important;
+  }
+
+  .ph-custom-resetpassword .ant-form-item-explain.ant-form-item-explain-error {
+    height: 15px !important;
+  }
+
+  .ph-custom-resetpassword .ant-form-item-control {
+    height: 45px !important;
+  }
+
+  .ph-resetpass-label .ant-form-item-control {
+    height: 32px !important;
+  }
+
+  .ph-custom-resetpassword .ant-form-item-control-input {
+    min-height: 0px !important;
+  }
+
+  .ph-resetpass-inputbox .ant-form-item-control {
+    height: 60px !important;
+  }
+
+  .custom-emailVerify-content, .custom-emailConfirm-content {
+    font-size: 12px !important;
+    font-family: SpoqaHanSans !important;
+    /* margin-bottom: 8px !important; */
+  }
+
+  .pm-emailVerify-content, .pm-emailConfirm-content, .pm-enter-password-content {
+    margin-bottom: 8px!important;
+  }
+
+  .ph-custom-confirmation {
+    margin-bottom: 0 !important;
+  }
+
+  .emailConfirmation {
+    font-family: SpoqaHanSans !important;
+    line-height: 16px !important;
+    font-size: 12px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .Custum-reset-password-contant {
+    margin-bottom: 8px !important;
+  }
+
+  .ft-socail-title {
+    padding-left: 30px !important;
+  }
+
+  .soc-login-inner {
+    width: 143px !important;
+  }
+
+  .pop-title-email-verify .ant-modal-title p {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+
+  .pop-title-email-verify .ant-modal-title {
+    padding-right: 0 !important;
+  }
+
+  .pop-title-email-verify .ant-modal-close {
+    margin-top: 16px !important;
+    margin-right: 20px !important;
+    width: 13.33px !important;
+    height: 13.33px !important;
+    border-radius: 5.39773px !important;
+  }
+
+  .pop-title-email-verify.ft-db .ant-modal-header {
+    padding: 16px 20px 16px 20px !important;
+  }
+
+  .pop-title-email-verify .ant-modal-body {
+    padding: 16px 20px 30px 20px !important;
+  }
+
+  .pop-title-email-verify .ant-modal-body .title, .custom-pass-title {
+    font-size: 12px !important;
+    line-height: 16px !important;
+    font-weight: 400;
+  }
+
+  .custom-pass-title {
+    font-family: SpoqaHanSans !important;
+    font-weight: 700 !important;
+    margin-bottom: 8px !important;
+  }
+
+  .ft-db .ant-modal-footer {
+    padding: 0 20px 24px 20px !important;
+  }
+
+  .custom-pop-btn {
+    width: 240px !important;
+    height: 40px !important;
+    margin-left: 0px !important;
+    border-radius: 10px !important;
+  }
+
+  .custom-reset-pass {
+    margin-top: 16px !important;
+  }
+
+  .ft-register-card .ant-card-body {
+    padding: 30px 20px 43px 20px !important;
+  }
+
+  .ph-custom-password {
+    margin-top: 24px !important;
+    height: 14px !important;
+    background-color: transparent !important;
+  }
+
+  .pcustom--btn {
+    margin-top: 6px !important;
+    margin-bottom: 0 !important;
+  }
+
+  .pcustom--btn span {
+    letter-spacing: -0.5px !important;
+    font-size: 11px !important;
+    line-height: 16px !important;
+  }
+
+  .ph-custom-textbtn {
+    margin-bottom: 0px !important;
+  }
+
+  .custom-textbtn {
+    min-height: 0 !important;
+    margin-bottom: 20px;
+  }
+
+  .ft-db {
+    margin-top: 0 !important;
+  }
+
+  .ft-resetpwd-btn {
+    font-size: 11px !important;
+    line-height: 16px !important;
+    letter-spacing: -0.5px !important;
+    font-weight: 400 !important;
+  }
+
+  .custom-repass {
+    font-size: 12px !important;
+    line-height: 16px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .custom-repass-1 {
+    margin-bottom: 4px !important;
+  }
+
+  .custom-repass-2 {
+    font-weight: 400 !important;
+  }
+
+  .pop-title-email-verify {
+    width: 280px !important;
+  }
+
+  .ant-checkbox-inner {
+    width: 8px !important;
+    height: 8px !important;
+  }
+
+  .ant-checkbox-inner::after {
+    left: 6.88% !important;
+  }
+
+  .ft-custom-checkbox .ant-checkbox-checked .ant-checkbox-inner::after {
+    top: 3px !important;
+    width: 4px !important;
+    height: 4px !important;
+  }
+
+  .at-check input[type="checkbox"] {
+    width: 8px !important;
+    height: 8px !important;
+  }
+
+  .at-check .ant-checkbox {
+    margin-right: 4px !important;
+  }
+
+  .ft-custom-checkbox .ant-checkbox .ant-checkbox-inner {
+    border-radius: 2px !important;
+  }
+
+  .ft-profile-complete-popup .ant-modal-header {
+    padding: 17px 20px !important;
+  }
+
+  .ph-custom-title {
+    margin-bottom: 0 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+
+  .ph-custom-content {
+    width: 280px !important;
+  }
+
+  .ft-profile-complete-popup .ant-modal-body {
+    padding: 16px 20px 40px 20px !important;
+  }
+
+  .ft-desc .ph-ft-pop-title {
+    margin-bottom: 40px !important;
+    margin-top: 0px !important;
+  }
+
+  .ft-profile-complete-popup .ft-desc p {
+    font-weight: 400 !important;
+    font-family: roboto !important;
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  .ph-custom-dis {
+    height: 40px !important;
+    border-radius: 10px !important;
+    background: rgba(0, 214, 227, 0.2) !important;
+    opacity: 1 !important;
+  }
+
+  .ph-custom-dis span, .pop-title-email-verify .pm-emailconfirmation-disable-btn span {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  .ph-custom-checkbox {
+    font-size: 4px !important;
+  }
+
+  .ant-row .ant-form-item {
+    margin-top: 0 !important;
+  }
+
+  .registerTabModalCard .ant-form-item-label {
+    padding-bottom: 0 !important;
+  }
+
+  .ph-custom-title-notice, .pcustom-text {
+    margin-bottom: 0 !important;
+    position: absolute !important;
+    bottom: -16px !important;
+  }
+
+  .ph-custom-apple-img {
+    display: none !important;
+  }
+
+  .ph-custom-img {
+    bottom: 6px !important;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box !important;
+    background-repeat: no-repeat;
+    background-image: url(../public/apple-black\ 1.svg);
+  }
+
+  .ft-profile-complete-popup .ft-popup-img {
+    width: 186px !important;
+    height: 142px !important;
+    margin: 0 auto !important;
+  }
+
+  .title2 {
+    margin-top: 0px !important;
+  }
+
+  .ant-modal-content {
+    width: 280px !important;
+    margin: 0 auto !important;
+  }
+
+  .ant-modal-close-x {
+    width: 13.33px !important;
+    height: 13.33px !important;
+  }
+
+  .ft-profile-complete-popup .ant-modal-close-x {
+    margin-top: 0px !important;
+    margin-right: 20px;
+  }
+
+  .ft-profile-complete-popup .ant-modal-close .ant-modal-close-icon {
+    position: absolute;
+    right: 20px;
+    top: 17px;
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .ph-ft-custom-gift-img {
+    margin: 0 !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    width: 186px !important;
+    height: 142px !important;
+  }
+
+  .ft-profile-complete-popup .ant-modal-footer {
+    padding: 0px 20px 24px 20px !important;
+    border-radius: 0 0 10px 10px !important;
+  }
+
+  .ft-profile-complete-popup .ant-modal-header {
+    border-radius: 10px 10px 0 0 !important;
+  }
+
+  .ph-custom-input {
+    margin-top: 32px;
+  }
+
+  .ph-custom-resetpassword-span {
+    font-size: 10px !important;
+    line-height: 14px;
+    letter-spacing: -0.5px;
+    margin-top: 0 !important;
+    padding-top: 14px !important;
+    position: absolute;
+  }
+
+  .ph-custom-regtitle .ant-form-item {
+    margin-top: 32px;
+  }
+
+  .ph-resetpass-inputbox {
+
+    padding-top: 50px !important;
+  }
+
+  .ph-reset-password-title {
+    display: none !important;
+  }
+
+  .ph-resetpassword-card {
+    margin-bottom: 0 !important;
+    padding: 30px 20px 30px 20px !important;
+  }
+
+  .ph-resetpassword-save-btn {
+    margin-top: 0 !important;
+  }
+
+  .ph-ressetpassword-primary-btn, .ph-resetpassword-save-btn {
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+
+  .ph-ressetpassword-primary-btn span, .ph-resetpassword-save-btn span {
+    font-size: 12px !important;
+    line-height: 28px !important;
+  }
+
+  .ph-resetpassword-confirmation-title {
+
+    margin-top: 14px !important;
+    font-size: 10px !important;
+    line-height: 14px !important;
+    letter-spacing: -0.5px;
+  }
+
+  .ph-resetpass-label {
+    margin-bottom: 0px !important;
+  }
+
+  .ant-col .ant-form-item-label {
+    padding-bottom: 8px !important;
+  }
+
+  .ant-form-item-explain, .ant-form-item-extra {
+    min-height: 0 !important;
+  }
+
+  .ant-form-item-explain.ant-form-item-explain-error {
+    margin-top: 0 !important;
+    margin-bottom: 0px !important;
+  }
+
+  .pm-error-ctn .ant-form-item-explain.ant-form-item-explain-error {
+    position: absolute;
+    top: 29px;
+  }
+
+  .pm-confirmpassword-ctn {
+    margin-bottom: 20px !important;
+  }
+
+  .pm-enter-pass-error-ctn {
+    position: relative;
+  }
+
+  .pm-enter-pass-error {
+    bottom: -15px !important;
+  }
+
+  .pm-custom-input-error-ctn {
+    position: absolute;
+    bottom: -31px !important;
+  }
+
+  .pm-error-ctn .ant-col.ant-form-item-control {
+    flex: none !important;
+  }
+
+  .ph-custom-regtitle .ant-form-item-explain {
+    line-height: 14px !important;
+    font-size: 10px !important;
+    letter-spacing: -0.5px !important;
+    color: #ff5c00 !important;
+  }
+
+  .pm-pop-custom-box {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .ph-custom-title2 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+
+  .pm-facebook-icon, .pm-kakaotalk-icon {
+    margin: 4px 0px 0px 0px !important;
+  }
+
+  .pm-custom-dis-btn span {
+    font-size: 14px !important;
+    line-height: 20px !important;
+  }
+
+  .pm-emailconfirmation-card {
+    padding: 0 !important;
+  }
+  .ph-resetpass-inputbox .form-input::placeholder, .ph-resetpass-label .form-input::placeholder, .ph-custom-textbtn .pm-custom-password-input-text::placeholder, .custom-emailverify .pm-custom-reset-password-text::placeholder, .login-email .pm-custom-login-text::placeholder, .pm-emailconfirmation-card .form-input::placeholder {
+    font-size: 11px !important;
+    line-height: 16px !important;
+    letter-spacing: -0.5px;
+  }
+  .ant-input.pm-custom-input-size::placeholder  {
+    font-size: 11px !important;
+    line-height: 16px !important;
+    letter-spacing: -0.5px;
+  }
+
+.pm-disabled-btn {
+  background: rgba(0, 214, 227, 0.2) !important;
+  opacity: 1 !important;
+}
+
+.pm-password-error-ctn, .pm-email-verify-error-ctn  {
+  height: 46px !important;
+}
+
+.pm-responsive-register-modal-desc {
+  margin-bottom: 40px !important;
+}
+.pm-register-modal .ant-modal-content{
+  background-color: #ffffff !important;
+}
+
+.pm-register-modal .ant-modal-close .ant-modal-close-icon { 
+  background-image: url(../public/register_popup_close.png);
+  width: 22px !important;
+  height: 22px !important;
+  background-repeat: no-repeat;
+}
+/* .pm-password-input-ctn .ant-form-item-explain-error > div{
+  position: absolute;
+} */
+
+.pm-emailConfirmation-modal .ant-modal-close { 
+  background-image: url(../public/register_popup_close.png);
+  width: 22px !important;
+  height: 22px !important;
+  background-repeat: no-repeat;
+}
+
+.pm-line-height-m2 {
+  line-height: 16px !important;
+}
+
+.pm-emailVerify-submit-btn, .pm-emailConfirmation-submit-btn {
+  margin-top: 24px !important;
+} 
+}
+
+
+@media only screen and (max-width: 576px) and (min-width: 420px)  {
+  .ft-socail-title {
+    padding-left: 46px !important;
+  }
+}
+

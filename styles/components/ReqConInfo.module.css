@@ -1,0 +1,78 @@
+.maindiv {
+    background-color: #00D6E3;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.hr {
+    height: 2px;
+    color: #FFFFFF;
+    padding: 0px;
+    /* transform: rotate(-180deg); */
+}
+
+.label {
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181C;
+}
+
+.fr{
+    float: right;
+}
+.fl{
+    float: left;
+}
+.flw{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    /* padding: 15px 93px 15px 15px; */
+    position: relative;
+}
+
+.flw:hover{
+    background-color: #F9FAFC;
+}
+
+.flw:hover .modaltxt{
+    font-weight: bold;
+}
+
+
+.flwout{
+    box-sizing: border-box;
+    border: 1px solid rgb(239, 239, 239);
+    padding: 15px 0px 5px;
+    float: left;
+    width: 100%;
+}
+
+.modaltxt{
+font-family: 'SpoqaHanSans';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+color: #16181C;
+float: left;
+}
+.dlt{
+    font-family: 'SpoqaHanSans';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+border-bottom-color: #FF5C00;
+border-bottom-width: 1px;
+color: #FF5C00;
+float: right;
+position: absolute;
+right: 15px;
+}

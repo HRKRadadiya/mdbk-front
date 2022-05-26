@@ -1,0 +1,88 @@
+ .maindiv {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  
+} 
+
+.heading {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  color: #16181c;
+}
+
+.info {
+  font-family: 'SpoqaHanSans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  color: #16181c;
+}
+
+.rightText {
+  text-align: right !important;
+}
+
+.rejectButton {
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 68px;
+  width: 240px;
+  /* box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1); */
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.acceptButton {
+  border: 1px solid #00d6e3;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 68px;
+  width: 240px;
+  background-color: #00d6e3;
+  color: white;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.acceptedButton {
+  background: rgba(0, 214, 227, 0.1);
+  border-radius: 30px;
+  border: 0;
+  color: #00d6e3;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.waitingButton {
+  background: #F4F4F4;
+  border-radius: 30px;
+  border: 0;
+  color: #9A9A9A;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.rejectedButton {
+  background: transparent;
+  border: 1px solid #9A9A9A;
+  border-radius: 30px;
+  color: #9A9A9A;
+  height: 46px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-right: 10px;
+  font-weight: bold;
+}

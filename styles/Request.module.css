@@ -1,0 +1,89 @@
+.heading {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #16181C;
+}
+
+.box {
+  background: #FFFFFF;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.rejectButton {
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 68px;
+  width: 240px;
+  /* box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1); */
+  font-weight: bold;
+}
+
+.acceptButton {
+  border: 1px solid #00d6e3;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 68px;
+  width: 240px;
+  background-color: #00d6e3;
+  color: white;
+  margin-left: 15px;
+}
+
+.cardBtn {
+  border: 1px solid #00d6e3;
+  color: #00d6e3;
+  box-sizing: border-box;
+  border-radius: 30px;
+  height: 46px;
+  width: 140px;
+  /* box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1); */
+  font-weight: bold;
+}
+
+.cardBtn2 {
+  border: 1px solid #00d6e3;
+  box-sizing: border-box;
+  border-radius: 30px;
+  height: 46px;
+  width: 140px;
+  background-color: #00d6e3;
+  color: white;
+  margin-left: 15px;
+}
+
+.mainContainer {
+  background-color: #E5E5E5;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  float: left;
+  width: 100%;
+}
+
+.bottomContainer {
+  background-color: white;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  float: left;
+  width: 100%;
+}
+
+.bottomHeading {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  color: #16181C;
+}
+
+.listtext {
+  font-family: 'SpoqaHanSans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  color: #9A9A9A;
+}

@@ -1,0 +1,48 @@
+.box {
+  width: 100%;
+  height: 150px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  margin-left: 0px;
+  margin-right: 0px;
+  background: #ffffff;
+  color: white;
+  border-left: 20px solid #00d6e3;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: normal;
+  align-items: center;
+  float: left;
+  width: 100%;
+}
+
+.fontbold {
+  font-family: 'SpoqaHanSansbold';
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 26px;
+  line-height: 26px;
+  color: #16181c;
+  padding-top: 25px;
+}
+
+.fontnormal {
+  font-family: 'SpoqaHanSanslight';
+  font-weight: 300 !important;
+  font-style: normal;
+  font-size: 26px;
+  line-height: 26px;
+  color: #16181c;
+  padding-top: 25px;
+}
+
+.bluebtn {
+  font-family: 'SpoqaHanSansbold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: #FFFFFF;
+  height: 43px;
+  background: #00D6E3;
+  border-radius: 100px;
+}

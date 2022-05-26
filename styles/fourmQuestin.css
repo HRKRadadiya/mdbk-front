@@ -1,0 +1,828 @@
+.forum-page {
+    padding-top: 100px;
+}
+
+.forum-container {
+    max-width: 712px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 180px;
+}
+
+.forum-title h3 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #16181C;
+    font-family: 'SpoqaHanSansbold';
+    margin-bottom: 0;
+    height: 48px;
+    line-height: 48px;
+}
+
+.forum-main-tab {
+    margin-top: 28px;
+}
+
+.forum-main-tab button {
+    padding: 0 !important;
+    border: none !important;
+    background-color: transparent;
+}
+
+.forum-main-tab button:first-child {
+    margin-right: 30px;
+}
+
+.main-tab-Btn {
+    font-weight: normal;
+    font-size: 18px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+}
+
+.main-tab-activeBtn {
+    font-weight: normal;
+    font-size: 18px;
+    color: #16181C;
+    font-family: 'SpoqaHanSansbold';
+    position: relative;
+}
+
+.main-tab-activeBtn:after {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: #16181C;
+    display: block;
+    content: '';
+    bottom: -8px;
+}
+
+.response-page-content {
+    margin-top: 38px;
+}
+
+.postResult-card {
+    margin-top: 20px;
+}
+
+.postResult-card {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding-top: 30px;
+    /* padding-bottom: 30px; */
+}
+
+.post-question-card {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    /* height: 239px; */
+    margin-top: 40px;
+    padding: 30px 40px 30px 40px;
+}
+
+.post-question-card .profile-row, .postResult-card .profile-row, .Forum-qusetionCard .profile-row {
+    display: flex;
+    align-items: center;
+}
+
+.postResult-card .profile-row, .Forum-qusetionCard .profile-row {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.post-question-card .profile-row img, .postResult-card .profile-row img, .Forum-qusetionCard .profile-row img {
+    width: 51.67px;
+    height: 51.67px;
+    border-radius: 50%;
+}
+
+.post-question-card .profile-row p, .postResult-card .profile-row p, .Forum-qusetionCard .profile-row p {
+    margin-bottom: 0;
+    color: #35323C;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'SpoqaHanSansbold';
+    margin-left: 17.17px;
+    line-height: 32px;
+}
+
+.postResult-card .profile-row p span, .Forum-qusetionCard .profile-row span {
+    font-weight: normal;
+    font-size: 16px;
+    color: #CACACA;
+    font-family: 'SpoqaHanSans';
+    margin-left: 12px;
+    line-height: 24px;
+}
+
+.post-question {
+    margin-top: 17.16px;
+}
+
+.post-question input {
+    width: 100%;
+    height: 22px;
+    border: none !important;
+    outline: none !important;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSansbold';
+    box-shadow: none;
+}
+
+.post-question input::placeholder {
+    font-size: 16px;
+    color: #CACACA;
+    font-family: 'SpoqaHanSans';
+    font-weight: normal;
+}
+
+.post-quebtn-footer {
+    width: 100%;
+    text-align: right;
+    margin-top: 40px;
+}
+
+.post-quebtn {
+    width: 280px;
+    height: 48px;
+    background-color: #00D6E3;
+    border-radius: 10px;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'SpoqaHanSansbold';
+    color: #FFFFFF;
+    margin-left: auto;
+}
+
+.fe-disable-btn .disable {
+    background: rgba(0, 214, 227, 0.2) !important;
+    border: none !important;
+}
+
+.fe-disable-btn .disabledraft {
+    background: rgba(0, 214, 227, 0.2) !important;
+}
+
+.postResult-Usercontent {
+    margin-top: 25.16px;
+    padding-left: 30px;
+    border-left: 2px solid #CACACA;
+}
+
+.postResult-Usercontent h3 {
+    font-weight: normal;
+    font-size: 16px;
+    color: #9A9A9A;
+    font-family: 'SpoqaHanSans';
+    margin-bottom: 0;
+}
+
+.postResult-Usercontent h4 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #16181C;
+    font-family: 'SpoqaHanSansbold';
+    margin-bottom: 0;
+    margin-top: 20px;
+    line-height: 28px;
+}
+
+.postResult-Readmore {
+    margin-top: 30px;
+}
+
+.postResult-Readmore h5 {
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: 'SpoqaHanSans';
+}
+
+.profileContent-main {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.Postcontent-image img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.postResult-tags {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.postResult-tags p {
+    margin-bottom: 15px;
+    margin-right: 10px;
+    padding: 8px 12px;
+    border: 1px solid #D1D1D1;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 18px;
+    width: max-content;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: 'SpoqaHanSans';
+    color: #9A9A9A;
+}
+
+.postComment {
+    display: flex;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.postComment .ToalComments p, .postAnswerResponse .ToalComments p {
+    font-weight: normal;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-family: 'SpoqaHanSans';
+    color: #9A9A9A;
+    cursor: pointer;
+}
+
+.postComment .ToalComments p span, .postAnswerResponse .ToalComments p span {
+    color: #00D6E3;
+    font-weight: bold;
+    font-family: 'SpoqaHanSansbold';
+    margin-left: 10px;
+}
+
+.postComment-like, .postComment-unlike {
+    margin-left: 31px;
+    cursor: pointer;
+}
+
+.postComment-like img, .postComment-unlike img {
+    margin-right: 11px;
+}
+
+.postComment-like span {
+    font-weight: bold;
+    font-size: 16px;
+    color: #00D6E3;
+    font-family: 'SpoqaHanSansbold';
+}
+
+.postComment-unlike span {
+    font-weight: bold;
+    font-size: 16px;
+    color: #FF5C00;
+    font-family: 'SpoqaHanSansbold';
+}
+
+.postEdit button {
+    padding: 0 !important;
+    border: none !important;
+    background: #FFF !important;
+    outline: none !important;
+    box-shadow: none !important;
+    width: 29.33px;
+    height: 29.33px;
+}
+
+.postEdit {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.postEdit span {
+    padding: 0 14.67px 0 0;
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #9A9A9A !important;
+    line-height: 36px;
+}
+
+.postEdit button img {
+    width: 26.67px !important;
+    height: 26.67px !important;
+}
+
+.postEdit .edit-icon {
+    margin-right: 17.33px;
+}
+
+.tab-cardBtn {
+    width: 91px;
+    background: none;
+    border: none;
+    outline: none;
+    font-weight: normal;
+    font-size: 18px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+}
+
+.tab-card-activeBtn {
+    background: #00D6E3;
+    border-radius: 50px;
+    color: #fff;
+    border: none;
+    width: 91px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'SpoqaHanSansbold';
+}
+
+.read-moreparagraph {
+    margin-bottom: 0;
+    position: relative;
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+}
+
+.read-moreparagraph span {
+    font-weight: normal;
+    font-size: 16px;
+    color: #00D6E3;
+    font-family: 'SpoqaHanSans';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-decoration: underline;
+}
+
+.CommentsPost {
+    border-top: 1px solid #E9E9E9;
+    border-bottom: 1px solid #E9E9E9;
+    padding: 30px 40px;
+    /* margin-top: 30px; */
+    /* padding-bottom:30px; */
+}
+
+.CommentsPost-row img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.CommentsPost-row input {
+    height: 48px;
+    width: 375px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    padding-left: 14px;
+    margin-left: 24px;
+}
+
+.CommentsPost-row input::placeholder {
+    font-weight: normal;
+    font-size: 16px;
+    font-family: 'SpoqaHanSans';
+    color: #9DA2AB;
+}
+
+.CommentsPost-row .post-activeBtn {
+    background: #00D6E3;
+    width: 169px;
+    height: 48px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer !important;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'SpoqaHanSansbold';
+    margin-left: 20px;
+}
+
+.CommentsPost-row .post-deactiveBtn {
+    background: #00D6E3;
+    width: 169px;
+    height: 48px;
+    border-radius: 10px;
+    cursor: not-allowed;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'SpoqaHanSansbold';
+    margin-left: 20px;
+    opacity: 0.3;
+}
+
+.CommentsList {
+    padding: 34px 40px 0 40px;
+}
+
+.CommentList-profile {
+    display: flex;
+    align-items: center;
+}
+
+.CommentList-profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.CommentList-profile p {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-family: 'SpoqaHanSansbold';
+    font-size: 20px;
+    color: #35323C;
+    margin-left: 24px;
+}
+
+.CommentList-profile p span {
+    font-weight: normal;
+    font-size: 16px;
+    color: #CACACA;
+    font-family: 'SpoqaHanSans';
+    margin-left: 12px;
+}
+
+.CommentList-Readmore h5 {}
+
+.CommentList-Readmore {
+    margin-top: 28px;
+}
+
+.PostCommentBtn {
+    border: none !important;
+    outline: none;
+    box-shadow: none;
+    background: transparent;
+    font-weight: normal;
+    font-size: 16px;
+    color: #9DA2AB;
+    font-family: 'SpoqaHanSans';
+    margin-top: 20px;
+    position: relative;
+    padding: 0;
+    margin-bottom: 34px;
+}
+
+.PostCommentBtn:after {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: #cacaca !important;
+}
+
+.Comment-reply-row {
+    padding-bottom: 40px;
+}
+
+.commentReply-Box {
+    border-left: 2px solid #CACACA;
+    padding-left: 34px;
+}
+
+.commentReply-MainBox {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.CommentReply-reply {
+    padding-bottom: 54px;
+}
+
+/* .CommentReply-reply:last-child {
+    padding-bottom: 40px !important;
+} */
+
+.Forum-qusetionCard-conatiner {
+    padding-top: 20px;
+}
+
+.Forum-qusetionCard {
+    padding: 30px 0;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.Forum-question-content {
+    padding: 20.16px 40px 0 40px;
+    word-break: break-all;
+}
+
+.Forum-question-content p {
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+    margin-bottom: 0;
+}
+
+.qusetionList-img img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.postAnswerResponse {
+    display: flex;
+    align-items: center;
+}
+
+.answerBtn {
+    width: 197px;
+    height: 48px;
+    background: #00D6E3;
+    border-radius: 10px;
+    border: none !important;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer !important;
+    color: #FFFFFF;
+    font-family: 'SpoqaHanSans';
+}
+
+.answerBtnSection .disable {
+    background: #00D6E3 !important;
+    cursor: not-allowed !important;
+    opacity: 0.3;
+}
+
+.answerResponse-row {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    width: 100%;
+}
+
+.answerBtnSection {
+    margin-left: auto;
+}
+
+.postQuestionModal .modal-header {
+    padding: 35.17px 34.93px 35.17px 35.17px;
+}
+
+.postQuestionModal .modal-dialog {
+    max-width: 712px;
+}
+
+.postQuestionModal .modal-content {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.postQuestionModal .modal-header .close {
+    border: none !important;
+    background: transparent !important;
+    background: url("../public/close-grey.svg") no-repeat !important;
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    position: absolute;
+    top: 35px;
+    right: 35px;
+}
+
+.postQuestionModal .modal-header .close span {
+    display: none !important;
+}
+
+.postQuestionModal-Header {
+    display: flex;
+    align-items: center;
+}
+
+.postQuestionModal-Header img {
+    width: 51.67px;
+    height: 51.67px;
+}
+
+.postQuestionModal-Header h5 {
+    font-weight: bold;
+    font-size: 22px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+    margin-bottom: 0;
+    margin-left: 15.16px;
+}
+
+.postQuestionModal .modal-body {
+    padding: 30px 35px;
+}
+
+.postQuestionModal .ant-form-item {
+    margin-bottom: 30px !important;
+}
+
+.postQuestionModal .ant-form-item textarea {
+    padding: 0 5px !important;
+    border: none !important;
+}
+
+.postQuestionModal .ant-form-item textarea::placeholder {
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'SpoqaHanSans';
+    color: #9DA2AB;
+}
+
+.postQuestionModal .enterLink {
+    margin-top: 10px;
+}
+
+.postQuestionModal .enterLink input {
+    border: none;
+    padding: 0px;
+    padding-left: 42.62px;
+    height: 28px;
+}
+
+.postQuestionModal .enterLink input::placeholder {
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'SpoqaHanSans';
+    color: #9DA2AB;
+}
+
+.postQuestionModal .enterLink .ant-form-item-control-input-content {
+    position: relative;
+}
+
+.postQuestionModal .enterLink .ant-form-item-control-input-content .linkEditor {
+    position: absolute;
+    top: 0;
+    left: 5px;
+}
+
+.forum-profile-editor {
+    display: flex;
+    align-items: center;
+    padding-top: 34px;
+    padding-bottom: 18px;
+}
+
+.forum-profile-editor img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.forum-profile-editor h4 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #35323C;
+    line-height: 32px;
+    font-family: 'SpoqaHanSans';
+    margin-bottom: 0;
+    margin-left: 16px;
+}
+
+.forum-top-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E9E9E9;
+    border-top: 1px solid #E9E9E9;
+}
+
+.forum-top-row button {
+    border: none;
+    background-color: none !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.answer-textarea textarea {
+    height: 341px;
+    overflow-y: auto;
+    width: 100%;
+    padding: 15px 0 0 0;
+    border: none !important;
+    border-bottom: 1px solid #E9E9E9 !important;
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+    resize: none !important;
+}
+
+.answer-textarea1 textarea {
+    height: 352px;
+    overflow-y: auto;
+    width: 100%;
+    /* padding: 15px 0 0 0 !important; */
+    border: none;
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+    resize: none !important;
+}
+
+.forum-top-row .LinkBtn {
+    margin-left: 15.33px;
+    margin-right: 15.33px;
+}
+
+.PostBtnDisable {
+    background: #b3f3f7;
+    height: 48px;
+    width: 197px;
+    border: none;
+    cursor: not-allowed !important;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 24px;
+    font-family: 'SpoqaHanSans';
+}
+
+.postBtn-Row {
+    width: 100%;
+    text-align: right;
+    padding-top: 30px;
+}
+
+.answerBtn-Section {
+    padding-left: 44px;
+    padding-right: 40px;
+}
+
+.answerBtn-Section {
+    padding-top: 30px;
+}
+
+.fileupload-inputs input, .fileUplod-links input, .fileupload-tages input {
+    height: 48px;
+    width: 100%;
+    padding: 12px 10px 12px 14px;
+    border-radius: 10px;
+    border: 1px solid #D1D1D1;
+    margin-top: 12px;
+    font-weight: normal;
+    font-size: 16px;
+    color: #16181C;
+    font-family: 'SpoqaHanSans';
+}
+
+::-webkit-file-upload-button {
+    display: none;
+}
+
+.fileupload-inputs input::placeholder, .fileUplod-links input::placeholder, .fileupload-tages input::placeholder, .answer-textarea textarea::placeholder {
+    font-weight: normal;
+    font-size: 16px;
+    color: #CACACA;
+    font-family: 'SpoqaHanSans';
+}
+
+.fileupload-inputs input::placeholder, .fileUplod-links input::placeholder, .fileupload-tages input::placeholder, .answer-textarea1 textarea::placeholder {
+    font-weight: normal;
+    font-size: 16px;
+    color: #CACACA;
+    font-family: 'SpoqaHanSans';
+}
+
+.fileUplod-links {
+    /* margin-top: 12px; */
+}
+
+.topupload-section>div:first-child {
+    margin-top: 30px;
+}
+
+.topupload-section1>div:first-child {
+    margin-top: 18px;
+}
+
+.postComment-like, .postComment-unlike {
+    display: flex;
+    align-items: center;
+}
+
+.hm-forum-response-edit {
+    height: 62px;
+}
+
+.forum-editor button img {
+    width: 26.67px;
+    height: 26.67px;
+}

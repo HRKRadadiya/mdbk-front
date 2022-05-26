@@ -1,0 +1,149 @@
+.hm-response-hashtag-ctn {
+    margin: 40px 0;
+}
+
+.hm-response-hashtag-ctn .hm-response-question {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    color: #00D6E3;
+}
+
+.hm-response-hashtag-ctn .hm-response-hashtag {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    color: #00D6E3;
+}
+
+.hm-response-hashtag-ctn .hm-list-answer {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    color: #9DA2AB
+}
+
+.hm-break-word-ctn.postResult-Readmore .read-moreparagraph {
+    word-break: break-all;
+}
+
+.hm-forum-page {
+    padding-top: 80px;
+}
+
+.hm-main-tab-activeBtn {
+    font-weight: 700 !important;
+    line-height: 28px;
+}
+
+.hm-main-tab-activeBtn::after {
+    bottom: -6px ;
+}
+
+.hm-main-tab-Btn {
+    font-weight: 400 !important;
+    line-height: 28px;
+    color: #9A9A9A;
+}
+
+.hm-line-height-28 {
+    line-height: 28px;
+}
+
+.post-question-card .hm-profile-row p {
+    margin-left: 16.17px;
+}
+
+.postEdit button.edit-icon {
+    margin-right: 21.33px;
+}
+
+.postEdit button:last-child img {
+    margin-right: 2.66px;
+}
+
+.hm-postResult-Usercontent h3 {
+    line-height: 24px;
+}
+
+.hm-postResult-tags {
+    margin-top: 15px;
+}
+
+.hm-postResult-tags p {
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 0 !important;
+}
+
+.CommentsPost-row.Comment-reply-row img, .CommentsPost-row img, .CommentsList .CommentList-profile > img {
+    margin-left: 4px;
+}
+
+.CommentList-profile p {
+    line-height: 32px;
+}
+
+.hm-CommentList-Readmore {
+    margin-top: 24px;
+}
+
+.hm-child-CommentList-Readmore {
+    margin-top: 14px;
+}
+
+.hm-Forum-qusetionCard-conatiner {
+    padding-top: 0px !important;
+}
+
+.hm-Forum-qusetionCard {
+    padding-bottom: 27.9px;
+}
+
+.hm-response-page-content>div:nth-child(2) {
+    margin-top: 40px;
+}
+
+.hm-Postcontent-image img {
+    margin-top: 0 !important;
+}
+
+.hm-postResult-Readmore {
+    margin-bottom: 30px;
+}
+
+.hm-fileUplod-links input {
+    margin-left: -5px;
+    width: 101.5%;
+    margin-top: 0px !important;
+}
+
+.hm-fileupload-tages {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.hm-fileupload-inputs {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.hm-image-upload-ctn input {
+    background-color: #fff;
+}
+
+.hm-image-upload-ctn input {
+   margin-top: 0px !important;
+}
+
+.hm-PostCommentBtn {
+    margin-bottom: 30px;
+}
+
+
+.hm-topupload-section>div:first-child {
+    margin-top: 24px;
+}

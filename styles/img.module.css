@@ -1,0 +1,61 @@
+.heading {
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.maindiv {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background: #ffffff;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    max-width: 800px;
+}
+
+.txtheading {
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    float: right;
+    color: #9a9a9a;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.disabledButton {
+    height: 68px;
+    background: #eaeaea;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffffff;
+    margin-bottom: 50px;
+}
+
+.activeButton {
+    height: 68px;
+    background: #00d6e3;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffffff;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,16 @@
+.footer {
+  height: 90px;
+  background: #F1F1F1;
+  backdrop-filter: blur(30px);
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:#2B2F36;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Noto Sans KR;
+  font-style: normal;
+  }

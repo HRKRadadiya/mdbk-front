@@ -1,0 +1,189 @@
+.p1 {
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+}
+
+.p2 {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    float: right !important;
+}
+
+.radiobtntxt {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+    height: 64px;
+    padding-top: 10px;
+}
+
+.radiobtntxt2 {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+    width: 33.33%;
+    text-align: center;
+    justify-content: center;
+    height: 64px;
+    padding-top: 10px;
+}
+
+label.ant-radio-button-wrapper span {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    width: 100%;
+}
+
+.txtbox {
+    height: 64px;
+    border: 1px solid #d1d1d1;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.btn {
+    width: fit-content;
+    height: 44px;
+    border: 1px solid #d1d1d1;
+    box-sizing: border-box;
+    border-radius: 100px;
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    color: #16181c;
+}
+
+.hashBtn {
+    width: fit-content;
+    height: 44px;
+    border: 0px solid;
+    background: rgba(0, 214, 227, 0.1);
+    box-sizing: border-box;
+    border-radius: 100px;
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    color: #00D6E3
+    ;
+}
+
+.dropdownitem {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    color: #cacaca;
+}
+
+.dropdownBtn {
+    text-align: left;
+    height: 50px;
+    width: 180px;
+    color: #cacaca;
+    font-family: 'SpoqaHanSans';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.pt30 {
+    padding-top: 30px;
+}
+
+.bigbtn {
+    width: 50%;
+    height: auto;
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+
+.firsttext {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #16181c;
+}
+
+.sectext {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #9a9a9a;
+}
+
+.cardBtn {
+    border: 1px solid #00d6e3;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: #00d6e3;
+    color: white;
+    float: right;
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.cancelButton {
+    width: 240px;
+    height: 68px;
+    border: 2px solid #00d6e3;
+    color: #00d6e3;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.saveButton {
+    width: 240px;
+    height: 68px;
+    background: #00d6e3;
+    color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 20px;
+}

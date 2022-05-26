@@ -1,0 +1,47 @@
+.maindiv {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.mainContainer {
+    background-color: #E5E5E5;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    float: left;
+    width: 100%;
+  }
+
+.commontbtn{
+font-family: 'SpoqaHanSansbold';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #00D6E3;
+}
+
+.commontbtn2{
+    font-family: 'SpoqaHanSansbold';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #FFFFFF;
+background-color:#00D6E3 ;
+}
+
+.heading1{
+font-family: 'SpoqaHanSansbold';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 36px;
+color: #16181C;
+padding-top: 60px;
+padding-bottom: 40px;
+}
+
+.btnclr{
+    background-color: #00D6E3;
+}

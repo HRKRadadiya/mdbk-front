@@ -1,0 +1,105 @@
+.subheading {
+  background-color: transparent !important;
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #16181c;
+}
+
+.blueMsg {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #00d6e3;
+  margin-top: 10px;
+}
+
+.redMsg {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ff5c00;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.resetPwd {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #16181c;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background: transparent;
+  border: transparent;
+  width: 100%;
+}
+
+.forgotPwdLink {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #9a9a9a;
+  margin-bottom: 52px;
+  margin-top: 20px;
+}
+
+.confirmMsg {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  color: #16181c;
+  padding-bottom: 0;
+}
+
+.confirmMsg:nth-child(1) {
+  margin-bottom: 12px;
+}
+
+.confirmMsg:nth-child(2) {
+  margin-bottom: 50px;
+}
+
+.popUptitle {
+  font-family: "SpoqaHanSansbold";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 36px;
+  color: #16181c;
+  margin-bottom: 0;
+  display: grid;
+  padding: 50px 30px 30px 30px;
+}
+
+@media (max-width: 639px) {
+  .redMsg {
+    font-size: 10px;
+    line-height: 14px;
+    margin-top: 4px;
+    margin-bottom: 18px !important;
+  }
+  .blueMsg {
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: -0.5px;
+    margin-top: 4px;
+    margin-bottom: 18px !important;
+  }
+}

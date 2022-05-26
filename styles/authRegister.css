@@ -1,0 +1,488 @@
+.register-header{
+    background: #E5E5E5;
+    background-image: url(../public/laptop.png);
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 90px;
+    background-position: center center;
+}
+.reg-header-logo {
+    background-color: rgba(255, 255, 255, 0.2) ;
+    backdrop-filter: blur(30px);
+    height: 100px ; 
+    /* display: flex; */
+    line-height: 100px;
+    align-items: center;
+    /* justify-items: flex-start; */
+}
+.header-logo1 {
+    /* margin-left: 460px; */
+    
+}
+ .reg-header{
+    max-width: 640px;
+    margin: 0 auto;
+    margin-bottom: 104px;
+
+}
+
+.main-header {
+    margin: 0 auto;
+    width: 100%;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.main-header p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Noto Sans KR;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin: 0;
+}
+.main-register-box {
+    width: 640px;
+    height: auto;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(60px);
+}
+
+.header-fix-container{
+    max-width:1040px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+
+}
+
+.register-cilent-box {
+    padding: 60px 50px 40px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.register-cilent{
+    width: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.register-cilent img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+.register-cilent p{
+    margin-bottom: 0px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #6C6C6C;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+}
+.register-cilent-1{
+    width: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.register-cilent-1 img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+.register-cilent-1 p{
+    margin-bottom: 0px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #00D6E3;
+    align-items: center;
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+
+.reg-box{
+    padding: 0px 50px 60px 50px;
+}
+.name-input{
+    border-bottom: 1px solid #000;
+}
+.name-input.error{
+    border-bottom: 1px solid #FF5C00;
+}
+.name-1 p{
+    font-size: 18px;
+    font-family: Noto Sans KR;
+    line-height: 36px;
+    font-style: normal;
+    font-weight: bold;
+    color: #16181C;
+    margin-bottom: 0px;
+}
+.register-input-box .name p {
+    font-size: 18px;
+    font-family: Noto Sans KR;
+    line-height: 36px;
+    font-style: normal;
+    font-weight: bold;
+    color: #16181C;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.name-input input {
+    margin-top: 20px;
+    margin-bottom: 18px;
+    width: 100%;
+    border: none;
+    background: transparent;
+    padding: 0;
+    font-size: 18px;
+    font-family: Noto Sans KR;
+    line-height: 28px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.error-messge{
+position: relative;
+}   
+
+.error-messge p{
+    color: #FF5C00;
+    font-size: 16px;
+    font-family: Noto Sans KR;
+    line-height: 20px;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+}
+.social-media-text p{
+    margin-top: 54px;
+    margin-bottom: 6px;
+    font-size: 16px;
+    font-family: Noto Sans KR;
+    line-height: 28px;
+    color: #16181C;
+}
+.checkbox-container{
+    padding-left: 0px;
+    padding-right: 0px;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    font-size: 14px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    top: 4px;
+}
+.checkbox-container input{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.checkmark {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    height: 16px;
+    width: 16px;
+    border-radius: 4px;
+    border: none;
+    border: 1.5px solid #afabb5;
+}
+.checkbox-container input:checked~.checkmark {
+    background-color: #00D6E3;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+.checkbox-container input:checked~.checkmark:after {
+    display: block;
+}
+.checkbox-container .checkmark:after {
+    left: 4px;
+    top: 1px;
+    width: 5px;
+    height: 8px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);       
+}
+.checkbox-text{
+    margin-left: 22px;
+    margin-bottom: 0px;
+}
+.checkbox-text span{
+    line-height: 28px;
+}
+.checkbox-text .term-bold{
+    font-size: 16px;
+    line-height: 28px;
+    color: #16181C;
+    font-weight:700 ;
+    text-decoration: underline;
+}
+.register-btn button{
+    width:100% ;
+    height: 68px;
+    background: #00D6E3;
+    border-radius: 20px;
+    border: none;
+    margin-top: 50px;
+}
+
+.register-btndisable button{
+    background: #00D6E3!important;
+    opacity: 0.5!important;
+    cursor: not-allowed;
+}
+
+.register-btn button p{
+    font-size: 20px;
+    font-family: Noto Sans KR;
+    line-height: 28px;
+    align-items: center;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding: 20px 16px 18px 14px;
+}
+.password-name p{
+    margin-bottom: 0;
+    margin-top: 10px;
+    color: #9A9A9A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    position: absolute;
+    top: -10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+}
+.password-name{
+    position: relative;
+}
+
+.pv-main-header {
+    display: none;
+}
+.pv-footer .login-footer{
+    background-color:rgba(255, 255, 255, 0.3);;
+backdrop-filter: blur(30px);
+}
+.pv-register-input .name p{
+    margin-top: 70px;
+}
+.line-box-1 img{
+    display: none;
+}
+.pv-password input{
+    margin-top: 20px;   
+    margin-bottom: 20px;
+}
+
+
+
+
+
+@media (max-width: 639px) {
+    .register-header{
+        height: 130px;
+        background-size: cover;
+    }
+
+    .pv-main-header {
+        display: block;
+        position: absolute;
+        top: 34px;
+        left: 20px;
+    }
+    .line-box-1 img{
+        display: block;
+    }
+    
+    .reg-header-logo {
+
+        height: 0px ; 
+        display: flex;
+        align-items: center;
+        justify-items: flex-start;
+    }
+   
+    .main-header {   
+         padding-top: 62px;
+         padding-bottom: 40px;
+    }
+    .main-header p{
+        font-size: 20px !important;
+        line-height: 28px !important;
+        padding-left: 20px;
+    }
+    .main-register-box{
+        width: 100%;
+        border-radius: 0px;
+        background: #FFFFFF;
+    }
+    .register-cilent-box {
+        padding: 30px 25px 30px 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .register-cilent{
+        width: auto;
+        text-align: center;
+        margin-right: auto;  
+        margin-left: auto;
+    }
+    .register-cilent img{
+        width: 40px;
+        height: 40px;
+        margin-bottom: 9px;
+    }
+    .register-cilent p{
+        margin-bottom: 0px;
+        font-size: 12px;
+        line-height: 16px;
+        
+    }
+    .register-cilent-1{
+        width: auto;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;  
+    }
+    .register-cilent-1 img{
+        width: 40px;
+        height: 40px;
+        margin-bottom: 9px;
+    }
+    .register-cilent-1 p{
+        margin-bottom: 0px;
+        font-size: 12px;
+        line-height: 16px;
+        
+    }
+    .line-box img{
+        display: none;
+    }
+   
+    .reg-box{
+        padding: 0px 20px 20px 20px !important;
+    }
+    .name-1 p{
+        font-size: 12px;
+        line-height: 16px;
+        font-weight:700;
+    }
+    .register-input-box .name p{
+        font-size: 12px;
+        line-height: 16px;
+        font-weight:700;
+        margin-top: 32px;
+    }
+    .name-input input{
+        font-size: 11px;
+        line-height: 16px;
+        letter-spacing: -0.5px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    .error-messge p{
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: -0.5px;
+        font-weight: 400px;
+        margin-top: 4px;
+    }
+    .social-media-text p{
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: -0.5px;
+        margin-top: 48px;
+        margin-bottom: 0px;
+    }
+    .checkbox-text .term-bold{
+        height: 14px;
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: -0.5px;
+        font-weight: 700; 
+    }
+    .checkbox-text span{
+        height: 14px;
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: -0.5px;
+        font-weight: 400;
+    }
+    .register-btn button p{
+        font-size: 14px;
+        line-height: 20px;  
+        font-weight: 700px; 
+        padding: 10px 0px 10px 0px;
+    }
+    .register-btn button{
+        height: 40px;
+        margin-top: 22px;
+        border-radius: 10px;
+    }
+    .checkmark{
+        top:3px;
+        width: 14px;
+        height: 14px;
+    }
+    .checkbox-container .checkmark:after {
+        left: 3px;
+        top: 0px;
+        width: 4px;
+        height: 8px;
+    }
+    .checkbox-text{
+        margin-left: 19px;
+    }
+    .header-logo1{
+        display: none;
+    }
+    .password-name p{
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: -0.5px;
+        top: 2px;
+        margin-top: 0;  
+      }
+}
+
+
+@media (max-width: 1040px) {
+    .header-fix-container{
+        padding-left: 100px;
+    }
+}

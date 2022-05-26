@@ -1,0 +1,130 @@
+.userprofilesectop {
+  float: left;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 15px 15px 0 0;
+  box-sizing: border-box;
+  /* padding: 15px; */
+}
+
+.p {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #16181c;
+  padding-top: 30px;
+}
+
+.heading {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  color: #16181c;
+}
+
+.label {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  color: #16181c;
+}
+
+.labelright {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #16181c;
+  float: right;
+}
+
+.lstbtn {
+  font-family: SpoqaHanSansbold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #9a9a9a;
+  background: #ffffff;
+  border-radius: 20px;
+  min-width: 50%;
+  height: 68px;
+  float: none;
+  display: table;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.topbtn {
+  height: 50px;
+  background: #00d6e3;
+  border-color: #00d6e3;
+  border-radius: 10px;
+  float: right;
+  font-family: SpoqaHanSansbold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #ffffff;
+  width: 20%;
+}
+
+.h2 {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  color: #9a9a9a;
+  padding-top: 5px;
+}
+
+.twobtn {
+  height: 48px;
+  width: 100%;
+  border: 1px solid #d1d1d1;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 100px;
+  font-family: SpoqaHanSansbold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 28px;
+  color: #16181c;
+  float: left;
+  text-align: center;
+}
+
+.graybtnstyl {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  height: 30px !important;
+  color: #9a9a9a;
+  /* height: 44px; */
+  background-color: #fafafa;
+  border-radius: 100px;
+  border: none !important;
+  margin: 28px 10px 0px 0px;
+}
+
+@media (max-width: 991px) {
+  .twobtn {
+    height: 60px;
+    font-size: 20px;
+  }
+  .graybtnstyl {
+    margin: 27px 12px 0 0;
+  }
+}
+/* ================================= ravi-sondagar ==================================== */

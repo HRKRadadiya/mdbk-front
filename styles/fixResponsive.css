@@ -1,0 +1,318 @@
+
+.hm-tag-lists-outer > button {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 80%;
+}
+
+ .hm-tag-lists-outer > button > .ft-val  {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 88%;
+  width: 100%;
+}
+
+.hm-needed-pos .ftbtn {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 88%;
+  width: 100%;
+}
+
+.hm-main-header {
+  padding-bottom: 46px;
+  position: relative;
+}
+.hm-main-header > p {
+  height: 22px;
+}
+
+.hm-bg-shadow {
+  height: 0;
+}
+
+/************ Client and SC Profile Social Links  ************/
+/* .hm-social-profile-lists-ctn .hm-social-profile-lists button {
+  width: 133px;
+  height: 48px;
+} */
+
+div.hm-social-link-list-ctn  ul.hm-social-link-btn-list li {
+  list-style : none;
+  display: inline-block
+} 
+
+div.hm-social-link-list-ctn  ul.hm-social-link-btn-list  { 
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+div.hm-social-link-list-ctn  ul.hm-social-link-btn-list  button { 
+  width: 133px;
+  height: 48px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 1px solid #D1D1D1;
+  box-sizing: border-box;
+  border-radius: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+div.hm-social-link-list-ctn  ul.hm-social-link-btn-list li:last-child  button { 
+  margin-right: 0px;
+}
+
+div.hm-social-link-list-ctn  ul.hm-social-link-btn-list  button img { 
+  width: 24px;
+  height: 24px;
+}
+
+.clientprofile-2 span.Blueprofile_heading__2JU1N.hm-head-profile  { 
+  margin-left: 0 !important;
+}
+
+.hm-sc-pr-edit-btn {
+  margin-right: 0px !important;
+}
+
+.hm-user-profile {
+  padding-top: 0px !important;
+}
+
+.hm-sc-profile .ant-btn:hover,
+.hm-sc-profile .ant-btn:focus,
+.hm-clientprofile .ant-btn:hover,
+.hm-clientprofile .ant-btn:focus {
+  color: var(--theme-color) !important;
+  border-color: var(--theme-color) !important;
+}
+
+.hm-clientprofile .hm-client-box,
+.hm-sc-profile .hm-sc-box {
+  margin-bottom: 130px;
+}
+
+
+@media (min-width: 639px) {
+   .hm-ui-ux-tabs-ctn .col-md-6  {
+     width: 50% !important;
+   }
+
+}
+
+@media (max-width: 639px) {
+  .ft-search-form-wrapper.ft-post-project-card .ft-lbl.hm-fd-lbl {
+    font-size: 11px !important;
+  }
+
+  .hm-next-prev-btn
+    .ft-schedule-date-outer
+    .ft-daterange-picker
+    .rdrMonthAndYearWrapper
+    .rdrNextPrevButton {
+    width: 22px !important;
+    height: 22px !important;
+  }
+
+  .rdrDays {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cacaca;
+  }
+
+  .ft-pp-step5 .fd1 {
+    margin-top: 24px;
+    padding-right: 8px !important;
+  }
+
+  .ft-pp-step5 .fd2 {
+    margin-top: 24px;
+    padding-left: 8px !important;
+    padding-right: 12px !important;
+  }
+
+  .ft-custom-modal
+    .ft-project-post-complete-popup
+    .ft-pop-body
+    .desc.hm-project-complete-desc-ctn {
+    line-height: 18px !important;
+    letter-spacing: -0.5px !important;
+  }
+
+  .hm-proposal-btn1 {
+    margin-right: 6px !important;
+  }
+  .hm-proposal-btn2 {
+    margin-left: 6px !important;
+  }
+
+  .ft-sc-project-list-page.hm-project-sc-card
+    .ft-sc-project-card
+    .section2
+    .ft-tag-lists-outer
+    .ft-tag-lists
+    .ft-val {
+    letter-spacing: 0 !important;
+  }
+
+  .ft-sc-project-list-page.hm-project-sc-card
+    .ft-sc-project-card
+    .section1
+    .heart-icon {
+    margin-left: 5.33px !important;
+    width: 13.33px !important;
+    height: 10.65px !important;
+  }
+
+  .ft-apply-block .hm-top {
+    padding: 30px 20px 20px 20px !important;
+  }
+
+  .ft-apply-block .hm-top .detail .count {
+    margin-left: 4px !important;
+  }
+
+  .hm-aptag-lists-ctn .ft-aptag-lists {
+    margin: 6px 8px 0 0 !important;
+  }
+
+  .hm-mb-20 {
+    margin-bottom: 20px !important;
+  }
+
+  .hm-bg-shadow {
+    height: 130px;
+  } 
+}
+
+
+/************ Client and SC Profile Social Links  ************/
+@media (max-width: 991px)  and (min-width: 768px) {
+
+  /* .hm-social-profile-lists-ctn {
+    margin-top: 0px !important;
+  }
+
+  .hm-social-profile-lists li {
+    margin-right: 0px !important;
+    margin-top: 20px !important;
+  } */
+}
+
+
+@media (max-width: 767px)  and (min-width: 640px) {
+
+  /* .hm-social-profile-lists-ctn {
+    margin-top: 0px !important;
+  }
+  .hm-social-profile-lists-ctn > ul {
+    justify-content: space-between;
+  }
+
+  .hm-social-profile-lists li {
+    margin-top: 20px !important;
+    margin-right: 0px !important;
+  } */
+
+}
+
+
+@media (max-width: 991px)  and (min-width: 640px) { 
+  .hm-has-btn {
+      font-size: 16px !important;
+      height: 48px !important;
+  } 
+
+  .hm-sc-profile .profile-box .profrate-inner .proinr-cmn, .hm-sc-profile .Clientprofile-box .profrate-inner .proinr-cmn ,.hm-clientprofile .profile-box .profrate-inner .proinr-cmn, .hm-clientprofile .Clientprofile-box .profrate-inner .proinr-cmn {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  .hm-sc-profile .profile-box .cmn-profile-img img ,.hm-clientprofile .profile-box .cmn-profile-img img, .Clientprofile-box .cmn-profile-img img {
+    width: 83.34px;
+    height: 83.34px;
+  }
+
+  .hm-sc-profile .profile-name ,.hm-clientprofile .profile-name {
+    margin-top: 28.66px;
+  }
+
+  .hm-sc-profile .Clientprofile-box .imgupload-inner img ,.hm-clientprofile .Clientprofile-box .imgupload-inner img {
+    width: 184px;
+    height: 184px;
+  }
+
+  .hm-sc-profile  .Clientprofile-box .imgupload-inner :nth-child(2n) ,.hm-clientprofile  .Clientprofile-box .imgupload-inner :nth-child(2n) {
+    margin-right: 20px;
+  }
+  .hm-sc-profile  .Clientprofile-box .imgupload-inner :nth-child(3n),.hm-clientprofile  .Clientprofile-box .imgupload-inner :nth-child(3n) {
+    margin-right: 0;
+  }
+
+  .hm-sc-profile  .Clientprofile-box .imgupload-inner,.hm-clientprofile  .Clientprofile-box .imgupload-inner {
+    justify-content: flex-start;
+  }
+
+  .hm-sc-box {
+    border-radius: 20px !important;
+    margin-bottom: 100px !important;
+    padding: 68px 60px 60px 60px !important;
+  }
+
+}
+
+@media (max-width: 711px) and (min-width: 640px) {
+  .hm-sc-profile  .Clientprofile-box .imgupload-inner :nth-child(3n) ,.hm-clientprofile  .Clientprofile-box .imgupload-inner :nth-child(3n) {
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 639px) {
+
+  div.hm-social-link-list-ctn  ul.hm-social-link-btn-list  button { 
+    width: 132px;
+    height: 36px;
+    margin-right: 16px;
+    margin-top: 12px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+  }
+
+  div.hm-social-link-list-ctn  ul.hm-social-link-btn-list li:last-child  button { 
+    margin-right: 0px;
+  }
+  
+  div.hm-social-link-list-ctn  ul.hm-social-link-btn-list  button img { 
+    width: 20px;
+    height: 20px;
+  }
+  
+  .hm-work-end-port {
+    margin-top: 20px !important;
+  }
+
+  .hm-client-box , .hm-sc-box{
+    padding: 0;
+    margin-bottom: 0 !important;
+  }
+
+  .clientprofile-2 span.Blueprofile_heading__2JU1N.hm-head-profile {
+    margin-left: 20.5px !important;
+  }
+
+}
+
+@media (min-width: 468px) and (max-width: 550px) {
+  div.hm-social-link-list-ctn  ul.hm-social-link-btn-list li:nth-child(3)  button { 
+    margin-right: 0px;
+  }
+}
+@media (max-width: 467px) {
+  div.hm-social-link-list-ctn  ul.hm-social-link-btn-list li:nth-child(even)  button { 
+    margin-right: 0px;
+  }
+}
+

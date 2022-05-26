@@ -1,0 +1,47 @@
+.reqField {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FF5C00;
+}
+
+.btnwhite {
+    height: 64px;
+    border: 1px solid #00D6E3;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-family: SpoqaHanSans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #00D6E3;
+    margin-top: 37px;
+    width: 100%;
+}
+
+.btnblue {
+    font-family: SpoqaHanSansbold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #00D6E3;
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 64px;
+    width: 100%;
+}
+
+.radiotxt{
+    font-family: SpoqaHanSansbold;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 36px;
+color: #00D6E3;
+
+}

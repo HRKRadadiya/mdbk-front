@@ -1,0 +1,194 @@
+
+.forum-popup-ques-ask .modal-dialog {
+    max-width: 712px !important;
+  }
+  
+  /* Modal-Header */
+  .forum-popup-ques-ask .ft-pop-header {
+    padding: 35.17px 34.93px 35.16px 35.17px !important;
+  }
+  
+  .forum-popup-ques-ask .popup-title-ctn img {
+    width: 51.67px;
+    height: 51.67px;
+    margin-right: 15.17px;
+  }
+  
+  .forum-popup-ques-ask .popup-title-ctn span {
+    font-size: 22px !important;
+    font-weight: 700;
+    line-height: 36px;
+  }
+  
+  /* Modal-body */
+  .forum-popup-ques-ask .ft-pop-body {
+    padding: 30px 35px 0 35px !important;
+  }
+  
+  .forum-popup-ques-ask .ft-custom-ant-select {
+    width: 100% !important;
+  }
+  .forum-popup-ques-ask .ant-select-selector {
+    height: 48px !important;
+  }
+  
+  .ant-select-dropdown {
+    z-index: 9999;
+  }
+  
+  .forum-popup-ques-ask
+    .ft-custom-ant-select
+    .ant-select-selector
+    .ant-select-selection-item {
+    font-weight: normal;
+    font-size: 16px;
+    /* color: #cacaca; */
+  }
+  
+  /* .forum-popup-ques-ask .dropdown-placeholder {
+    font-weight: normal !important;
+    font-size: 16px !important;
+    color: #cacaca !important;
+    position: absolute;
+    top: 43px;
+    left: 50px;
+  } */
+  
+  .forum-popup-ques-ask .input-ques {
+    border: none;
+    padding: 30px 0 104px 5px !important;
+    width: 100%;
+    line-height: 28px !important;
+  }
+  
+  .forum-popup-ques-ask .input-ques::placeholder {
+    color: #9da2ab;
+  }
+  
+  .forum-popup-ques-ask .input-link {
+    width: 100%;
+    border: none;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    height: 48px !important;
+    padding: 12px 10px 12px 14px !important;
+    line-height: 24px;
+  }
+  
+  .forum-popup-ques-ask .input-link::placeholder {
+    color: #cacaca;
+  }
+  
+  /* Modal-footer */
+  .forum-popup-ques-ask .ft-pop-footer {
+    padding: 30px 84px 30px 84px !important;
+  }
+  
+  .forum-popup-ques-ask .popup-btn-ctn {
+    display: flex !important;
+    justify-content: space-between;
+  }
+  
+  .forum-popup-ques-ask .popup-btn-ctn button {
+    width: 260px !important;
+  }
+  
+  .forum-popup-ques-ask .popup-btn-ctn button:first-child {
+    background-color: #fff !important;
+    color: var(--theme-color) !important;
+  }
+  
+  /* Modal 2 Responsive in 639px screen */
+  @media (max-width: 639px) {
+    .forum-popup-ques-ask .modal-dialog {
+      max-width: 280px !important;
+    }
+  
+    /* Modal-Header */
+    .forum-popup-ques-ask .ft-pop-header {
+      padding: 18px 24.7px 18px 22px !important;
+    }
+  
+    .forum-popup-ques-ask .popup-title-ctn img {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+    }
+  
+    .forum-popup-ques-ask .popup-title-ctn span {
+      font-size: 14px !important;
+      font-weight: 700;
+      line-height: 20px;
+    }
+  
+    /* Modal-body */
+    .forum-popup-ques-ask .ft-pop-body {
+      padding: 16px 20px 16px 20px !important;
+    }
+  
+    .forum-popup-ques-ask .ft-custom-ant-select {
+      width: 100% !important;
+    }
+  
+    .forum-popup-ques-ask .ant-select-selector {
+      height: 36px !important;
+    }
+  
+    .forum-popup-ques-ask .input-ques {
+      border: none;
+      padding: 16px 0 122px 0 !important;
+      width: 100%;
+      line-height: 16px !important;
+      font-size: 12px !important;
+    }
+  
+    .forum-popup-ques-ask .input-link {
+      width: 100%;
+      border: none;
+      border: 1px solid #d1d1d1;
+      border-radius: 10px;
+      height: 36px !important;
+      padding: 10px 8px !important;
+      font-size: 11px !important;
+      line-height: 16px;
+    }
+  
+    /* Modal-footer */
+    .forum-popup-ques-ask .ft-pop-footer {
+      padding: 16px 20px 24px 20px !important;
+    }
+  
+    .forum-popup-ques-ask .popup-btn-ctn {
+      display: flex !important;
+      justify-content: space-between;
+    }
+  
+    .forum-popup-ques-ask .popup-btn-ctn button {
+      width: 114px !important;
+      border-radius: 10px;
+    }
+  
+    .forum-popup-ques-ask .popup-btn-ctn button:first-child {
+      background-color: #fff !important;
+      color: var(--theme-color) !important;
+    }
+  }
+  
+  /* Popup:- 4  Forum Question delete popup */
+  
+  .forum-popup .ques-del-desc {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  
+  /* .forum-popup .popup-btn-ctn {
+    display: flex !important;
+    justify-content: space-between;
+  }
+  .forum-popup .popup-btn-ctn button {
+    width: 212px !important;
+  }
+  .forum-popup .popup-btn-ctn button:first-child {
+    background-color: #fff !important;
+    color: var(--theme-color) !important;
+  } */

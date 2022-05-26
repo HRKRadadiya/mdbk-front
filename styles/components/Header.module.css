@@ -1,0 +1,86 @@
+.mr20 {
+    margin-right: 20px;
+  }
+
+  .mr10 {
+    margin-right: 10px;
+  }
+  
+
+  .heading1{
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 36px;
+    color: #16181C;
+    padding-top: 60px;
+    margin-left: 41px;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    }
+
+  .secondMenu {
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #16181c !important;
+  }
+  .secondMenuWhite {
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff !important;
+  }
+  .topMenu {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #9a9a9a;
+  }
+
+  .topMenuWhite {
+    font-family: 'SpoqaHanSans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff!important;
+  }
+  
+  
+  .button {
+    width: 84px;
+    height: 34px;
+    margin-left: 8px;
+    margin-top: 10px;
+    border: 1px solid #00d6e3;
+    color: #00d6e3;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 8px;
+  }
+   
+  .buttonWhite {
+    min-width: 84px;
+    height: 34px;
+    margin-left: 8px;
+    margin-top: 10px;
+    border: 1px solid #FFFFFF;
+    font-family: 'SpoqaHanSansbold';
+    background: transparent;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;   
+    text-align: center;
+    border-radius: 8px;
+    padding: 0 10px!important;
+  }
